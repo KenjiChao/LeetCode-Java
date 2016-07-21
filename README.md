@@ -10,3 +10,4 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [372. Super Pow](https://discuss.leetcode.com/topic/50504/java-4ms-solution-using-the-remainder-repeat-pattern)
 - [371. Sum of Two Integers](https://discuss.leetcode.com/topic/49771/java-simple-easy-understand-solution-with-explanation)
 - [368. Largest Divisible Subset](https://discuss.leetcode.com/topic/49456/c-solution-with-explanations)
+- [365. Water and Jug Problem](https://discuss.leetcode.com/topic/49238/math-solution-java-solution)
