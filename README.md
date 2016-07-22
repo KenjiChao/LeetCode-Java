@@ -13,3 +13,4 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [368. Largest Divisible Subset](https://discuss.leetcode.com/topic/49456/c-solution-with-explanations)
 - [365. Water and Jug Problem](https://discuss.leetcode.com/topic/49238/math-solution-java-solution)
 - [357. Count Numbers with Unique Digits](https://discuss.leetcode.com/topic/48332/java-o-1-with-explanation)
+- [11. Container With Most Water](https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation)
