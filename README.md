@@ -12,6 +12,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [371. Sum of Two Integers](https://discuss.leetcode.com/topic/49771/java-simple-easy-understand-solution-with-explanation)
 - [368. Largest Divisible Subset](https://discuss.leetcode.com/topic/49456/c-solution-with-explanations)
 - [365. Water and Jug Problem](https://discuss.leetcode.com/topic/49238/math-solution-java-solution)
+- [363. Max Sum of Rectangle No Larger Than K](https://discuss.leetcode.com/topic/48875/accepted-c-codes-with-explanation-and-references)
 - [357. Count Numbers with Unique Digits](https://discuss.leetcode.com/topic/48332/java-o-1-with-explanation)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
