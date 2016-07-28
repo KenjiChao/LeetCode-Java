@@ -14,6 +14,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [365. Water and Jug Problem](https://discuss.leetcode.com/topic/49238/math-solution-java-solution)
 - [363. Max Sum of Rectangle No Larger Than K](https://discuss.leetcode.com/topic/48875/accepted-c-codes-with-explanation-and-references)
 - [357. Count Numbers with Unique Digits](https://discuss.leetcode.com/topic/48332/java-o-1-with-explanation)
+- [355. Design Twitter](https://discuss.leetcode.com/topic/47862/java-solution-using-hashmap-and-priorityqueue)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
 - [11. Container With Most Water](https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation)
