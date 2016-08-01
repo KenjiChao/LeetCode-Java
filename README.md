@@ -16,6 +16,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [357. Count Numbers with Unique Digits](https://discuss.leetcode.com/topic/48332/java-o-1-with-explanation)
 - [355. Design Twitter](https://discuss.leetcode.com/topic/47862/java-solution-using-hashmap-and-priorityqueue)
 - [354. Russian Doll Envelopes](https://discuss.leetcode.com/topic/47469/java-nlogn-solution-with-explanation)
+- [352. Data Stream as Disjoint Intervals](https://discuss.leetcode.com/topic/46887/java-solution-using-treemap-real-o-logn-per-adding)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
 - [11. Container With Most Water](https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation)
