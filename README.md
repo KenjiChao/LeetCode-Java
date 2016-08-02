@@ -17,6 +17,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [355. Design Twitter](https://discuss.leetcode.com/topic/47862/java-solution-using-hashmap-and-priorityqueue)
 - [354. Russian Doll Envelopes](https://discuss.leetcode.com/topic/47469/java-nlogn-solution-with-explanation)
 - [352. Data Stream as Disjoint Intervals](https://discuss.leetcode.com/topic/46887/java-solution-using-treemap-real-o-logn-per-adding)
+- [350. Intersection of Two Arrays II](https://discuss.leetcode.com/topic/45893/c-hash-table-solution-and-sort-two-pointers-solution-with-time-and-space-complexity)
 - [349. Intersection of Two Arrays](https://discuss.leetcode.com/topic/45685/three-java-solutions)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
