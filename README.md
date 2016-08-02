@@ -20,6 +20,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [350. Intersection of Two Arrays II](https://discuss.leetcode.com/topic/45893/c-hash-table-solution-and-sort-two-pointers-solution-with-time-and-space-complexity)
 - [349. Intersection of Two Arrays](https://discuss.leetcode.com/topic/45685/three-java-solutions)
 - [347. Top K Frequent Elements](https://discuss.leetcode.com/topic/44237/java-o-n-solution-bucket-sort)
+- [345. Reverse Vowels of a String](https://discuss.leetcode.com/topic/43412/java-standard-two-pointer-solution)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
 - [11. Container With Most Water](https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation)
