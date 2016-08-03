@@ -24,6 +24,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [344. Reverse String](https://discuss.leetcode.com/topic/43296/many-acceptable-answers)
 - [343. Integer Break](https://discuss.leetcode.com/topic/43055/why-factor-2-or-3-the-math-behind-this-problem)
 - [342. Power of Four](https://discuss.leetcode.com/topic/42860/java-1-line-cheating-for-the-purpose-of-not-using-loops)
+- [341. Flatten Nested List Iterator](https://discuss.leetcode.com/topic/42042/simple-java-solution-using-a-stack-with-explanation)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
 - [11. Container With Most Water](https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation)
