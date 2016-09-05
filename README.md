@@ -28,6 +28,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [338. Counting Bits](https://discuss.leetcode.com/topic/40162/three-line-java-solution)
 - [337. House Robber III](https://discuss.leetcode.com/topic/39834/step-by-step-tackling-of-the-problem)
 - [336. Palindrome Pairs](https://discuss.leetcode.com/topic/40657/150-ms-45-lines-java-solution)
+- [335. Self Crossing](https://discuss.leetcode.com/topic/38014/java-oms-with-explanation)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
