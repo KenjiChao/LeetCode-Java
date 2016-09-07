@@ -32,6 +32,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [334. Increasing Triplet Subsequence](https://discuss.leetcode.com/topic/37426/concise-java-solution-with-comments)
 - [332. Reconstruct Itinerary](https://discuss.leetcode.com/topic/36370/short-ruby-python-java-c)
 - [331. Verify Preorder Serialization of a Binary Tree](https://discuss.leetcode.com/topic/35976/7-lines-easy-java-solution)
+- [330. Patching Array](https://discuss.leetcode.com/topic/35494/solution-explanation)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
