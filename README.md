@@ -35,6 +35,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [330. Patching Array](https://discuss.leetcode.com/topic/35494/solution-explanation)
 - [329. Longest Increasing Path in a Matrix](https://discuss.leetcode.com/topic/34835/15ms-concise-java-solution)
 - [328. Odd Even Linked List](https://discuss.leetcode.com/topic/34292/simple-o-n-time-o-1-space-java-solution)
+- [303. Range Sum Query - Immutable](https://discuss.leetcode.com/topic/29194/java-simple-o-n-init-and-o-1-query-solution)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
