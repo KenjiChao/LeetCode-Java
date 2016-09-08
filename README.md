@@ -46,3 +46,6 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 ## Editorial Solution
 
 - [374. Guess Number Higher or Lower](https://leetcode.com/articles/guess-number-higher-or-lower/)
+- [328. Odd Even Linked List](https://leetcode.com/articles/odd-even-linked-list/)
+- [304. Range Sum Query 2D - Immutable](https://leetcode.com/articles/range-sum-query-2d-immutable/)
+- [303. Range Sum Query - Immutable](https://leetcode.com/articles/range-sum-query-immutable/)
