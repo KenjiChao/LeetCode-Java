@@ -35,6 +35,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [330. Patching Array](https://discuss.leetcode.com/topic/35494/solution-explanation)
 - [329. Longest Increasing Path in a Matrix](https://discuss.leetcode.com/topic/34835/15ms-concise-java-solution)
 - [328. Odd Even Linked List](https://discuss.leetcode.com/topic/34292/simple-o-n-time-o-1-space-java-solution)
+- [307. Range Sum Query - Mutable (Codeforces)](http://codeforces.com/blog/entry/18051)
 - [304. Range Sum Query 2D - Immutable](https://discuss.leetcode.com/topic/29536/clean-c-solution-and-explaination-o-mn-space-with-o-1-time)
 - [303. Range Sum Query - Immutable](https://discuss.leetcode.com/topic/29194/java-simple-o-n-init-and-o-1-query-solution)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
@@ -47,5 +48,6 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 
 - [374. Guess Number Higher or Lower](https://leetcode.com/articles/guess-number-higher-or-lower/)
 - [328. Odd Even Linked List](https://leetcode.com/articles/odd-even-linked-list/)
+- [307. Range Sum Query - Mutable](https://leetcode.com/articles/range-sum-query-mutable/)
 - [304. Range Sum Query 2D - Immutable](https://leetcode.com/articles/range-sum-query-2d-immutable/)
 - [303. Range Sum Query - Immutable](https://leetcode.com/articles/range-sum-query-immutable/)
