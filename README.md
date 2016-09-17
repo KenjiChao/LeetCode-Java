@@ -35,6 +35,8 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [330. Patching Array](https://discuss.leetcode.com/topic/35494/solution-explanation)
 - [329. Longest Increasing Path in a Matrix](https://discuss.leetcode.com/topic/34835/15ms-concise-java-solution)
 - [328. Odd Even Linked List](https://discuss.leetcode.com/topic/34292/simple-o-n-time-o-1-space-java-solution)
+- [315. Count of Smaller Numbers After Self](https://discuss.leetcode.com/topic/31173/my-simple-ac-java-binary-search-code)
+- [315. Count of Smaller Numbers After Self - II](https://discuss.leetcode.com/topic/31405/9ms-short-java-bst-solution-get-answer-when-building-bst)
 - [307. Range Sum Query - Mutable (Codeforces)](http://codeforces.com/blog/entry/18051)
 - [304. Range Sum Query 2D - Immutable](https://discuss.leetcode.com/topic/29536/clean-c-solution-and-explaination-o-mn-space-with-o-1-time)
 - [303. Range Sum Query - Immutable](https://discuss.leetcode.com/topic/29194/java-simple-o-n-init-and-o-1-query-solution)
