@@ -1,3 +1,43 @@
+// Merge Sort
+public class Solution {
+    class Node {
+        int val, index;
+        public Node(int val, int index) {
+            this.val = val;
+            this.index = index;
+        }
+    }
+
+    public List<Integer> countSmaller(int[] nums) {
+        int n = nums.length;
+        Integer[] count = new Integer[n];
+        Node[] nodes = new Node[n];
+        for (int i = 0; i < n; i++)  {
+            count[i] = 0;
+            nodes[i] = new Node(nums[i], i);
+        }
+        countWhileMergeSort(nodes, 0, n, count);
+        return Arrays.asList(count);
+    }
+
+    private void countWhileMergeSort(Node[] nodes, int start, int end, Integer[] count) {
+        if (end - start <= 1) return;
+        int mid = start + (end - start) / 2;
+        countWhileMergeSort(nodes, start, mid, count);
+        countWhileMergeSort(nodes, mid, end, count);
+        Node[] cache = new Node[end - start];
+        int j = mid;
+        for (int i = start, r = 0; i < mid; i++, r++) {
+            while (j < end && nodes[j].val < nodes[i].val) {
+                cache[r++] = nodes[j++];
+            }
+            cache[r] = nodes[i];
+            count[nodes[i].index] += (j - mid);
+        }
+        System.arraycopy(cache, 0, nodes, start, j - start);
+    }
+}
+
 // Binary Search
 public class Solution {
     public List<Integer> countSmaller(int[] nums) {
