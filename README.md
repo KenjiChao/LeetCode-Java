@@ -37,6 +37,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [328. Odd Even Linked List](https://discuss.leetcode.com/topic/34292/simple-o-n-time-o-1-space-java-solution)
 - [327. Count of Range Sum](https://discuss.leetcode.com/topic/33738/share-my-solution)
 - [326. Power of Three](https://discuss.leetcode.com/topic/33536/a-summary-of-all-solutions-new-method-included-at-15-30pm-jan-8th)
+- [324. Wiggle Sort II](https://discuss.leetcode.com/topic/41464/step-by-step-explanation-of-index-mapping-in-java)
 - [315. Count of Smaller Numbers After Self](https://discuss.leetcode.com/topic/31173/my-simple-ac-java-binary-search-code)
 - [315. Count of Smaller Numbers After Self - II](https://discuss.leetcode.com/topic/31405/9ms-short-java-bst-solution-get-answer-when-building-bst)
 - [307. Range Sum Query - Mutable (Codeforces)](http://codeforces.com/blog/entry/18051)
