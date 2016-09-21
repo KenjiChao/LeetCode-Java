@@ -42,6 +42,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [307. Range Sum Query - Mutable (Codeforces)](http://codeforces.com/blog/entry/18051)
 - [304. Range Sum Query 2D - Immutable](https://discuss.leetcode.com/topic/29536/clean-c-solution-and-explaination-o-mn-space-with-o-1-time)
 - [303. Range Sum Query - Immutable](https://discuss.leetcode.com/topic/29194/java-simple-o-n-init-and-o-1-query-solution)
+- [215. Kth Largest Element in an Array](https://discuss.leetcode.com/topic/14597/solution-explained)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
