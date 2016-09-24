@@ -39,6 +39,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [326. Power of Three](https://discuss.leetcode.com/topic/33536/a-summary-of-all-solutions-new-method-included-at-15-30pm-jan-8th)
 - [324. Wiggle Sort II](https://discuss.leetcode.com/topic/41464/step-by-step-explanation-of-index-mapping-in-java)
 - [322. Coin Change](https://discuss.leetcode.com/topic/32475/c-o-n-amount-time-o-amount-space-dp-solution)
+- [321. Create Maximum Number](https://discuss.leetcode.com/topic/32272/share-my-greedy-solution)
 - [315. Count of Smaller Numbers After Self](https://discuss.leetcode.com/topic/31173/my-simple-ac-java-binary-search-code)
 - [315. Count of Smaller Numbers After Self - II](https://discuss.leetcode.com/topic/31405/9ms-short-java-bst-solution-get-answer-when-building-bst)
 - [307. Range Sum Query - Mutable (Codeforces)](http://codeforces.com/blog/entry/18051)
