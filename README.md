@@ -42,6 +42,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [322. Coin Change](https://discuss.leetcode.com/topic/32475/c-o-n-amount-time-o-amount-space-dp-solution)
 - [321. Create Maximum Number](https://discuss.leetcode.com/topic/32272/share-my-greedy-solution)
 - [319. Bulb Switcher](https://discuss.leetcode.com/topic/31929/math-solution)
+- [313. Super Ugly Number](https://discuss.leetcode.com/topic/34841/java-three-methods-23ms-36-ms-58ms-with-heap-performance-explained)
 - [318. Maximum Product of Word Lengths](https://discuss.leetcode.com/topic/35539/java-easy-version-to-understand)
 - [315. Count of Smaller Numbers After Self](https://discuss.leetcode.com/topic/31173/my-simple-ac-java-binary-search-code)
 - [315. Count of Smaller Numbers After Self - II](https://discuss.leetcode.com/topic/31405/9ms-short-java-bst-solution-get-answer-when-building-bst)
