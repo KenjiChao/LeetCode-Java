@@ -54,6 +54,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [283. Move Zeroes](https://discuss.leetcode.com/topic/24716/simple-o-n-java-solution-using-insert-index)
 - [264. Ugly Number II](https://discuss.leetcode.com/topic/21882/my-16ms-c-dp-solution-with-short-explanation)
 - [263. Ugly Number](https://discuss.leetcode.com/topic/21785/2-4-lines-every-language)
+- [257. Binary Tree Paths](https://discuss.leetcode.com/topic/21474/accepted-java-simple-solution-in-8-lines)
 - [215. Kth Largest Element in an Array](https://discuss.leetcode.com/topic/14597/solution-explained)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [200. Number of Islands](https://discuss.leetcode.com/topic/13248/very-concise-java-ac-solution)
