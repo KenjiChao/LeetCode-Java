@@ -38,6 +38,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [328. Odd Even Linked List](https://discuss.leetcode.com/topic/34292/simple-o-n-time-o-1-space-java-solution)
 - [327. Count of Range Sum](https://discuss.leetcode.com/topic/33738/share-my-solution)
 - [326. Power of Three](https://discuss.leetcode.com/topic/33536/a-summary-of-all-solutions-new-method-included-at-15-30pm-jan-8th)
+- [325. Maximum Size Subarray Sum Equals k](https://discuss.leetcode.com/topic/33259/o-n-super-clean-9-line-java-solution-with-hashmap)
 - [324. Wiggle Sort II](https://discuss.leetcode.com/topic/41464/step-by-step-explanation-of-index-mapping-in-java)
 - [322. Coin Change](https://discuss.leetcode.com/topic/32475/c-o-n-amount-time-o-amount-space-dp-solution)
 - [321. Create Maximum Number](https://discuss.leetcode.com/topic/32272/share-my-greedy-solution)
