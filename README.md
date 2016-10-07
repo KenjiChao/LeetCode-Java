@@ -62,6 +62,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
 - [139. Word Break](https://discuss.leetcode.com/topic/6156/java-implementation-using-dp-in-two-ways)
 - [133. Clone Graph](https://discuss.leetcode.com/topic/9629/depth-first-simple-java-solution)
+- [108. Convert Sorted Array to Binary Search Tree](https://discuss.leetcode.com/topic/3158/my-accepted-java-solution)
 - [94. Binary Tree Inorder Traversal](https://discuss.leetcode.com/topic/6478/iterative-solution-in-java-simple-and-readable)
 - [91. Decode Ways](https://discuss.leetcode.com/topic/2562/dp-solution-java-for-reference)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
