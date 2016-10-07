@@ -73,6 +73,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [22. Generate Parentheses](https://discuss.leetcode.com/topic/4485/concise-recursive-c-solution)
 - [15. 3Sum](https://discuss.leetcode.com/topic/8125/concise-o-n-2-java-solution)
 - [11. Container With Most Water](https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation)
+- [1. Two Sum](https://discuss.leetcode.com/category/9/two-sum)
 
 ## Editorial Solution
 
