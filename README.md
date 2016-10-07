@@ -61,6 +61,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [200. Number of Islands](https://discuss.leetcode.com/topic/13248/very-concise-java-ac-solution)
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
 - [133. Clone Graph](https://discuss.leetcode.com/topic/9629/depth-first-simple-java-solution)
+- [91. Decode Ways](https://discuss.leetcode.com/topic/2562/dp-solution-java-for-reference)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
 - [78. Subsets](https://discuss.leetcode.com/topic/19110/c-recursive-iterative-bit-manipulation-solutions-with-explanations)
 - [67. Add Binary](https://discuss.leetcode.com/topic/8981/short-code-by-c)
