@@ -71,6 +71,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [108. Convert Sorted Array to Binary Search Tree](https://discuss.leetcode.com/topic/3158/my-accepted-java-solution)
 - [94. Binary Tree Inorder Traversal](https://discuss.leetcode.com/topic/6478/iterative-solution-in-java-simple-and-readable)
 - [91. Decode Ways](https://discuss.leetcode.com/topic/2562/dp-solution-java-for-reference)
+- [90. Subsets II](https://discuss.leetcode.com/topic/46162/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
 - [78. Subsets](https://discuss.leetcode.com/topic/19110/c-recursive-iterative-bit-manipulation-solutions-with-explanations)
 - [67. Add Binary](https://discuss.leetcode.com/topic/8981/short-code-by-c)
