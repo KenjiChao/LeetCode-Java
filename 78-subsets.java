@@ -2,20 +2,17 @@
 public class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
-        traverse(res, new ArrayList<Integer>(), nums, nums.length, 0);
+        backtrack(res, new ArrayList<>(), nums, 0);
         return res;
     }
 
-    private void traverse(List<List<Integer>> result, List<Integer> cur, int[] nums, int n, int i) {
-        if (i == n) {
-            result.add(new ArrayList<>(cur));
-            return;
+    private void backtrack(List<List<Integer>> res, List<Integer> cur, int[] nums, int start) {
+        res.add(new ArrayList<>(cur));
+        for (int i = start; i < nums.length; i++) {
+            cur.add(nums[i]);
+            backtrack(res, cur, nums, i + 1);
+            cur.remove(cur.size() - 1);
         }
-        int size = cur.size();
-        cur.add(nums[i]);
-        traverse(result, cur, nums, n, i + 1);
-        cur.remove(size);
-        traverse(result, cur, nums, n, i + 1);
     }
 }
 
