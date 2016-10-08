@@ -54,6 +54,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [304. Range Sum Query 2D - Immutable](https://discuss.leetcode.com/topic/29536/clean-c-solution-and-explaination-o-mn-space-with-o-1-time)
 - [303. Range Sum Query - Immutable](https://discuss.leetcode.com/topic/29194/java-simple-o-n-init-and-o-1-query-solution)
 - [298. Binary Tree Longest Consecutive Sequence](https://discuss.leetcode.com/topic/29205/simple-recursive-dfs-without-global-variable)
+- [297. Serialize and Deserialize Binary Tree](https://discuss.leetcode.com/topic/28029/easy-to-understand-java-solution)
 - [288. Unique Word Abbreviation](https://discuss.leetcode.com/topic/30533/java-solution-with-one-hashmap-string-string-beats-90-of-submissions)
 - [283. Move Zeroes](https://discuss.leetcode.com/topic/24716/simple-o-n-java-solution-using-insert-index)
 - [279. Perfect Squares](https://discuss.leetcode.com/topic/26400/an-easy-understanding-dp-solution-in-java)
