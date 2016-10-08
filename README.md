@@ -26,6 +26,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [343. Integer Break](https://discuss.leetcode.com/topic/43055/why-factor-2-or-3-the-math-behind-this-problem)
 - [342. Power of Four](https://discuss.leetcode.com/topic/42860/java-1-line-cheating-for-the-purpose-of-not-using-loops)
 - [341. Flatten Nested List Iterator](https://discuss.leetcode.com/topic/42042/simple-java-solution-using-a-stack-with-explanation)
+- [340. Longest Substring with At Most K Distinct Characters](https://discuss.leetcode.com/topic/41671/15-lines-java-solution-using-slide-window)
 - [338. Counting Bits](https://discuss.leetcode.com/topic/40162/three-line-java-solution)
 - [337. House Robber III](https://discuss.leetcode.com/topic/39834/step-by-step-tackling-of-the-problem)
 - [336. Palindrome Pairs](https://discuss.leetcode.com/topic/40657/150-ms-45-lines-java-solution)
