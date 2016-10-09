@@ -41,6 +41,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [326. Power of Three](https://discuss.leetcode.com/topic/33536/a-summary-of-all-solutions-new-method-included-at-15-30pm-jan-8th)
 - [325. Maximum Size Subarray Sum Equals k](https://discuss.leetcode.com/topic/33259/o-n-super-clean-9-line-java-solution-with-hashmap)
 - [324. Wiggle Sort II](https://discuss.leetcode.com/topic/41464/step-by-step-explanation-of-index-mapping-in-java)
+- [323. Number of Connected Components in an Undirected Graph](https://discuss.leetcode.com/topic/32752/easiest-2ms-java-solution)
 - [322. Coin Change](https://discuss.leetcode.com/topic/32475/c-o-n-amount-time-o-amount-space-dp-solution)
 - [321. Create Maximum Number](https://discuss.leetcode.com/topic/32272/share-my-greedy-solution)
 - [319. Bulb Switcher](https://discuss.leetcode.com/topic/31929/math-solution)
