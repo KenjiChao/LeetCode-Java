@@ -79,6 +79,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [47. Permutations II](https://discuss.leetcode.com/topic/31445/really-easy-java-solution-much-easier-than-the-solutions-with-very-high-vote)
 - [46. Permutations](https://discuss.leetcode.com/topic/5881/my-elegant-recursive-c-solution-with-inline-explanation)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
+- [39. Combination Sum](https://discuss.leetcode.com/topic/7698/java-solution-using-recursive)
 - [34. Search for a Range](https://discuss.leetcode.com/topic/6327/a-very-simple-java-solution-with-only-one-binary-search-algorithm)
 - [31. Next Permutation](https://discuss.leetcode.com/topic/15216/a-simple-algorithm-from-wikipedia-with-c-implementation-can-be-used-in-permutations-and-permutations-ii)
 - [30. Substring with Concatenation of All Words](https://discuss.leetcode.com/topic/6617/an-o-n-solution-with-detailed-explanation)
