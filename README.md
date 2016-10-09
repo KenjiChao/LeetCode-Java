@@ -62,6 +62,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [279. Perfect Squares](https://discuss.leetcode.com/topic/26400/an-easy-understanding-dp-solution-in-java)
 - [264. Ugly Number II](https://discuss.leetcode.com/topic/21882/my-16ms-c-dp-solution-with-short-explanation)
 - [263. Ugly Number](https://discuss.leetcode.com/topic/21785/2-4-lines-every-language)
+- [261. Graph Valid Tree](https://discuss.leetcode.com/topic/21712/ac-java-union-find-solution)
 - [257. Binary Tree Paths](https://discuss.leetcode.com/topic/21474/accepted-java-simple-solution-in-8-lines)
 - [228. Summary Ranges](https://discuss.leetcode.com/topic/17151/accepted-java-solution-easy-to-understand)
 - [215. Kth Largest Element in an Array](https://discuss.leetcode.com/topic/14597/solution-explained)
