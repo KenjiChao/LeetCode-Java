@@ -68,6 +68,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [200. Number of Islands](https://discuss.leetcode.com/topic/13248/very-concise-java-ac-solution)
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
+- [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
 - [139. Word Break](https://discuss.leetcode.com/topic/6156/java-implementation-using-dp-in-two-ways)
 - [133. Clone Graph](https://discuss.leetcode.com/topic/9629/depth-first-simple-java-solution)
 - [131. Palindrome Partitioning](https://discuss.leetcode.com/topic/46159/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partitioning)
