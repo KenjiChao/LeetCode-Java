@@ -4,6 +4,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 
 ## Great Discussions For Inspiration
 
+- [406. Queue Reconstruction by Height](https://discuss.leetcode.com/topic/60394/easy-concept-with-python-c-java-solution)
 - [388. Longest Absolute File Path](https://discuss.leetcode.com/topic/55247/9-lines-4ms-java-solution)
 - [375. Guess Number Higher or Lower II](https://discuss.leetcode.com/topic/51358/java-dp-solution)
 - [375. Guess Number Higher or Lower II - 2](https://discuss.leetcode.com/topic/51487/an-o-n-2-dp-solution-quite-hard)
