@@ -66,6 +66,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [281. Zigzag Iterator](https://discuss.leetcode.com/topic/26654/simple-java-solution-for-k-vector)
 - [280. Wiggle Sort](https://discuss.leetcode.com/topic/23871/java-o-n-solution)
 - [279. Perfect Squares](https://discuss.leetcode.com/topic/26400/an-easy-understanding-dp-solution-in-java)
+- [274. H-Index](https://discuss.leetcode.com/topic/23307/my-o-n-time-solution-use-java)
 - [264. Ugly Number II](https://discuss.leetcode.com/topic/21882/my-16ms-c-dp-solution-with-short-explanation)
 - [263. Ugly Number](https://discuss.leetcode.com/topic/21785/2-4-lines-every-language)
 - [261. Graph Valid Tree](https://discuss.leetcode.com/topic/21712/ac-java-union-find-solution)
