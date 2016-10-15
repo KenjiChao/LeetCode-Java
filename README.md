@@ -88,6 +88,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [133. Clone Graph](https://discuss.leetcode.com/topic/9629/depth-first-simple-java-solution)
 - [131. Palindrome Partitioning](https://discuss.leetcode.com/topic/46159/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partitioning)
 - [130. Surrounded Regions](https://discuss.leetcode.com/topic/17224/a-really-simple-and-readable-c-solution-only-cost-12ms)
+- [126. Word Ladder II](https://discuss.leetcode.com/topic/2857/share-two-similar-java-solution-that-accpted-by-oj)
 - [111. Minimum Depth of Binary Tree](https://discuss.leetcode.com/topic/8723/my-4-line-java-solution)
 - [108. Convert Sorted Array to Binary Search Tree](https://discuss.leetcode.com/topic/3158/my-accepted-java-solution)
 - [107. Binary Tree Level Order Traversal II](https://discuss.leetcode.com/topic/7651/my-dfs-and-bfs-java-solution)
