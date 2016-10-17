@@ -81,6 +81,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [210. Course Schedule II](https://discuss.leetcode.com/topic/13873/two-ac-solution-in-java-using-bfs-and-dfs-with-explanation)
 - [207. Course Schedule](https://discuss.leetcode.com/topic/13854/easy-bfs-topological-sort-java)
+- [202. Happy Number](https://discuss.leetcode.com/topic/12587/my-solution-in-c-o-1-space-and-no-magic-math-property-involved)
 - [200. Number of Islands](https://discuss.leetcode.com/topic/13248/very-concise-java-ac-solution)
 - [199. Binary Tree Right Side View](https://discuss.leetcode.com/topic/11768/my-simple-accepted-solution-java)
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
