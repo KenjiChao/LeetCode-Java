@@ -7,6 +7,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [417. Pacific Atlantic Water Flow](https://discuss.leetcode.com/topic/62379/java-bfs-dfs-from-ocean)
 - [407. Trapping Rain Water II](https://discuss.leetcode.com/topic/60418/java-solution-using-priorityqueue)
 - [406. Queue Reconstruction by Height](https://discuss.leetcode.com/topic/60394/easy-concept-with-python-c-java-solution)
+- [399. Evaluate Division](https://discuss.leetcode.com/topic/58482/9-lines-floyd-warshall-in-python)
 - [388. Longest Absolute File Path](https://discuss.leetcode.com/topic/55247/9-lines-4ms-java-solution)
 - [375. Guess Number Higher or Lower II](https://discuss.leetcode.com/topic/51358/java-dp-solution)
 - [375. Guess Number Higher or Lower II - 2](https://discuss.leetcode.com/topic/51487/an-o-n-2-dp-solution-quite-hard)
