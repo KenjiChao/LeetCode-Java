@@ -5,6 +5,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 ## Great Discussions For Inspiration
 
 - [417. Pacific Atlantic Water Flow](https://discuss.leetcode.com/topic/62379/java-bfs-dfs-from-ocean)
+- [409. Longest Palindrome](https://discuss.leetcode.com/topic/61300/simple-hashset-solution-java)
 - [407. Trapping Rain Water II](https://discuss.leetcode.com/topic/60418/java-solution-using-priorityqueue)
 - [406. Queue Reconstruction by Height](https://discuss.leetcode.com/topic/60394/easy-concept-with-python-c-java-solution)
 - [399. Evaluate Division](https://discuss.leetcode.com/topic/58482/9-lines-floyd-warshall-in-python)
