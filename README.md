@@ -122,6 +122,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [22. Generate Parentheses](https://discuss.leetcode.com/topic/4485/concise-recursive-c-solution)
 - [15. 3Sum](https://discuss.leetcode.com/topic/8125/concise-o-n-2-java-solution)
 - [11. Container With Most Water](https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation)
+- [9. Palindrome Number](https://discuss.leetcode.com/topic/8090/9-line-accepted-java-code-without-the-need-of-handling-overflow)
 - [5. Longest Palindromic Substring](https://discuss.leetcode.com/topic/21848/ac-relatively-short-and-very-clear-java-solution)
 - [1. Two Sum](https://discuss.leetcode.com/category/9/two-sum)
 
