@@ -75,6 +75,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [274. H-Index](https://discuss.leetcode.com/topic/23307/my-o-n-time-solution-use-java)
 - [273. Integer to English Words](https://discuss.leetcode.com/topic/23054/my-clean-java-solution-very-easy-to-understand)
 - [269. Alien Dictionary](https://discuss.leetcode.com/topic/28308/java-ac-solution-using-bfs)
+- [266. Palindrome Permutation](https://discuss.leetcode.com/topic/22057/java-solution-w-set-one-pass-without-counters)
 - [264. Ugly Number II](https://discuss.leetcode.com/topic/21882/my-16ms-c-dp-solution-with-short-explanation)
 - [263. Ugly Number](https://discuss.leetcode.com/topic/21785/2-4-lines-every-language)
 - [261. Graph Valid Tree](https://discuss.leetcode.com/topic/21712/ac-java-union-find-solution)
