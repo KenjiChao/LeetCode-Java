@@ -26,6 +26,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [350. Intersection of Two Arrays II](https://discuss.leetcode.com/topic/45893/c-hash-table-solution-and-sort-two-pointers-solution-with-time-and-space-complexity)
 - [349. Intersection of Two Arrays](https://discuss.leetcode.com/topic/45685/three-java-solutions)
 - [347. Top K Frequent Elements](https://discuss.leetcode.com/topic/44237/java-o-n-solution-bucket-sort)
+- [346. Moving Average from Data Stream]()
 - [345. Reverse Vowels of a String](https://discuss.leetcode.com/topic/43412/java-standard-two-pointer-solution)
 - [344. Reverse String](https://discuss.leetcode.com/topic/43296/many-acceptable-answers)
 - [343. Integer Break](https://discuss.leetcode.com/topic/43055/why-factor-2-or-3-the-math-behind-this-problem)
