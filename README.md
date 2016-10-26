@@ -106,6 +106,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [125. Valid Palindrome](https://discuss.leetcode.com/topic/8282/accepted-pretty-java-solution-271ms)
 - [114. Flatten Binary Tree to Linked List](https://discuss.leetcode.com/topic/11444/my-short-post-order-traversal-java-solution-for-share)
 - [111. Minimum Depth of Binary Tree](https://discuss.leetcode.com/topic/8723/my-4-line-java-solution)
+- [110. Balanced Binary Tree](https://discuss.leetcode.com/topic/7798/the-bottom-up-o-n-solution-would-be-better)
 - [108. Convert Sorted Array to Binary Search Tree](https://discuss.leetcode.com/topic/3158/my-accepted-java-solution)
 - [107. Binary Tree Level Order Traversal II](https://discuss.leetcode.com/topic/7651/my-dfs-and-bfs-java-solution)
 - [100. Same Tree](https://discuss.leetcode.com/topic/4737/five-line-java-solution-with-recursion)
