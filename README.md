@@ -89,6 +89,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [228. Summary Ranges](https://discuss.leetcode.com/topic/17151/accepted-java-solution-easy-to-understand)
 - [215. Kth Largest Element in an Array](https://discuss.leetcode.com/topic/14597/solution-explained)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
+- [211. Add and Search Word - Data structure design](https://discuss.leetcode.com/topic/14030/my-simple-and-clean-java-code)
 - [210. Course Schedule II](https://discuss.leetcode.com/topic/13873/two-ac-solution-in-java-using-bfs-and-dfs-with-explanation)
 - [207. Course Schedule](https://discuss.leetcode.com/topic/13854/easy-bfs-topological-sort-java)
 - [206. Reverse Linked List](https://discuss.leetcode.com/topic/13268/in-place-iterative-and-recursive-java-solution)
