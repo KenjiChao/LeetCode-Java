@@ -1,3 +1,4 @@
+// Segment Tree
 public class NumArray {
     int[] tree;
     int n;
@@ -34,6 +35,49 @@ public class NumArray {
     }
 }
 
+// Binary Indexed Tree
+public class NumArray {
+    int[] nums;
+    int[] BITree;
+    int n;
+
+    public NumArray(int[] nums) {
+        this.nums = nums;
+        n = nums.length;
+        BITree = new int[n + 1];
+        for (int i = 0; i < n; i++) {
+            buildTree(i, nums[i]);
+        }
+    }
+
+    private void buildTree(int i, int val) {
+        i++;
+        while (i <= n) {
+            BITree[i] += val;
+            i += i & (-i);
+        }
+    }
+
+    void update(int i, int val) {
+        int diff = val - nums[i];
+        nums[i] = val;
+        buildTree(i, diff);
+    }
+
+    private int getSum(int i) {
+        int sum = 0;
+        i++;
+        while (i > 0) {
+            sum += BITree[i];
+            i &= (i - 1);
+        }
+        return sum;
+    }
+
+    public int sumRange(int i, int j) {
+        return getSum(j) - getSum(i - 1);
+    }
+}
 
 // Your NumArray object will be instantiated and called as such:
 // NumArray numArray = new NumArray(nums);

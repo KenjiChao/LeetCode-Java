@@ -58,6 +58,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [315. Count of Smaller Numbers After Self - II](https://discuss.leetcode.com/topic/31405/9ms-short-java-bst-solution-get-answer-when-building-bst)
 - [310. Minimum Height Trees](https://discuss.leetcode.com/topic/30572/share-some-thoughts)
 - [307. Range Sum Query - Mutable (Codeforces)](http://codeforces.com/blog/entry/18051)
+- [307. Range Sum Query - Mutable](https://discuss.leetcode.com/topic/31599/java-using-binary-indexed-tree-with-clear-explanation)
 - [306. Additive Number](https://discuss.leetcode.com/topic/29856/java-recursive-and-iterative-solutions)
 - [305. Number of Islands II](https://discuss.leetcode.com/topic/29613/easiest-java-solution-with-explanations)
 - [304. Range Sum Query 2D - Immutable](https://discuss.leetcode.com/topic/29536/clean-c-solution-and-explaination-o-mn-space-with-o-1-time)
