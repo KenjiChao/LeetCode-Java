@@ -103,6 +103,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [162. Find Peak Element](https://discuss.leetcode.com/topic/5724/find-the-maximum-by-binary-search-recursion-and-iteration)
 - [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
 - [139. Word Break](https://discuss.leetcode.com/topic/6156/java-implementation-using-dp-in-two-ways)
+- [137. Single Number II](https://discuss.leetcode.com/topic/2031/challenge-me-thx)
 - [136. Single Number](https://discuss.leetcode.com/topic/1916/my-o-n-solution-using-xor)
 - [133. Clone Graph](https://discuss.leetcode.com/topic/9629/depth-first-simple-java-solution)
 - [132. Palindrome Partitioning II](https://discuss.leetcode.com/topic/2840/my-solution-does-not-need-a-table-for-palindrome-is-it-right-it-uses-only-o-n-space)
