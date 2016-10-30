@@ -83,6 +83,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [264. Ugly Number II](https://discuss.leetcode.com/topic/21882/my-16ms-c-dp-solution-with-short-explanation)
 - [263. Ugly Number](https://discuss.leetcode.com/topic/21785/2-4-lines-every-language)
 - [261. Graph Valid Tree](https://discuss.leetcode.com/topic/21712/ac-java-union-find-solution)
+- [260. Single Number III](https://discuss.leetcode.com/topic/21605/accepted-c-java-o-n-time-o-1-space-easy-solution-with-detail-explanations)
 - [257. Binary Tree Paths](https://discuss.leetcode.com/topic/21474/accepted-java-simple-solution-in-8-lines)
 - [253. Meeting Rooms II](https://discuss.leetcode.com/topic/20958/ac-java-solution-using-min-heap)
 - [252. Meeting Rooms](https://discuss.leetcode.com/topic/20959/ac-clean-java-solution)
