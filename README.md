@@ -89,6 +89,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [252. Meeting Rooms](https://discuss.leetcode.com/topic/20959/ac-clean-java-solution)
 - [234. Palindrome Linked List](https://discuss.leetcode.com/topic/18304/share-my-c-solution-o-n-time-and-o-1-memory)
 - [228. Summary Ranges](https://discuss.leetcode.com/topic/17151/accepted-java-solution-easy-to-understand)
+- [220. Contains Duplicate III](https://leetcode.com/articles/contains-duplicate-iii/)
 - [219. Contains Duplicate II](https://discuss.leetcode.com/topic/15305/simple-java-solution)
 - [217. Contains Duplicate](https://discuss.leetcode.com/topic/14730/possible-solutions)
 - [215. Kth Largest Element in an Array](https://discuss.leetcode.com/topic/14597/solution-explained)
