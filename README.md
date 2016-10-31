@@ -4,6 +4,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 
 ## Great Discussions For Inspiration
 
+- [436. Find Right Interval]()
 - [435. Non-overlapping Intervals]()
 - [417. Pacific Atlantic Water Flow](https://discuss.leetcode.com/topic/62379/java-bfs-dfs-from-ocean)
 - [409. Longest Palindrome](https://discuss.leetcode.com/topic/61300/simple-hashset-solution-java)
