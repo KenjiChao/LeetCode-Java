@@ -104,6 +104,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
 - [162. Find Peak Element](https://discuss.leetcode.com/topic/5724/find-the-maximum-by-binary-search-recursion-and-iteration)
 - [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
+- [146. LRU Cache](https://discuss.leetcode.com/topic/34701/java-easy-version-to-understand)
 - [139. Word Break](https://discuss.leetcode.com/topic/6156/java-implementation-using-dp-in-two-ways)
 - [137. Single Number II](https://discuss.leetcode.com/topic/2031/challenge-me-thx)
 - [136. Single Number](https://discuss.leetcode.com/topic/1916/my-o-n-solution-using-xor)
