@@ -94,6 +94,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [232. Implement Queue using Stacks](https://discuss.leetcode.com/topic/17974/short-o-1-amortized-c-java-ruby)
 - [230. Kth Smallest Element in a BST](https://discuss.leetcode.com/topic/17810/3-ways-implemented-in-java-binary-search-in-order-iterative-recursive)
 - [228. Summary Ranges](https://discuss.leetcode.com/topic/17151/accepted-java-solution-easy-to-understand)
+- [221. Maximal Square](https://discuss.leetcode.com/topic/15328/easy-dp-solution-in-c-with-detailed-explanations-8ms-o-n-2-time-and-o-n-space)
 - [220. Contains Duplicate III](https://leetcode.com/articles/contains-duplicate-iii/)
 - [219. Contains Duplicate II](https://discuss.leetcode.com/topic/15305/simple-java-solution)
 - [217. Contains Duplicate](https://discuss.leetcode.com/topic/14730/possible-solutions)
