@@ -66,6 +66,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [305. Number of Islands II](https://discuss.leetcode.com/topic/29613/easiest-java-solution-with-explanations)
 - [304. Range Sum Query 2D - Immutable](https://discuss.leetcode.com/topic/29536/clean-c-solution-and-explaination-o-mn-space-with-o-1-time)
 - [303. Range Sum Query - Immutable](https://discuss.leetcode.com/topic/29194/java-simple-o-n-init-and-o-1-query-solution)
+- [302. Smallest Rectangle Enclosing Black Pixels](https://discuss.leetcode.com/topic/29006/c-java-python-binary-search-solution-with-explanation)
 - [301. Remove Invalid Parentheses](https://discuss.leetcode.com/topic/30743/easiest-9ms-java-solution)
 - [298. Binary Tree Longest Consecutive Sequence](https://discuss.leetcode.com/topic/29205/simple-recursive-dfs-without-global-variable)
 - [297. Serialize and Deserialize Binary Tree](https://discuss.leetcode.com/topic/28029/easy-to-understand-java-solution)
