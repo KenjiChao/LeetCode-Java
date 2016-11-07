@@ -106,6 +106,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [211. Add and Search Word - Data structure design](https://discuss.leetcode.com/topic/14030/my-simple-and-clean-java-code)
 - [210. Course Schedule II](https://discuss.leetcode.com/topic/13873/two-ac-solution-in-java-using-bfs-and-dfs-with-explanation)
+- [208. Implement Trie (Prefix Tree)](https://discuss.leetcode.com/topic/19221/ac-java-solution-simple-using-single-array)
 - [207. Course Schedule](https://discuss.leetcode.com/topic/13854/easy-bfs-topological-sort-java)
 - [206. Reverse Linked List](https://discuss.leetcode.com/topic/13268/in-place-iterative-and-recursive-java-solution)
 - [202. Happy Number](https://discuss.leetcode.com/topic/12587/my-solution-in-c-o-1-space-and-no-magic-math-property-involved)
