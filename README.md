@@ -106,6 +106,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [217. Contains Duplicate](https://discuss.leetcode.com/topic/14730/possible-solutions)
 - [215. Kth Largest Element in an Array](https://discuss.leetcode.com/topic/14597/solution-explained)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
+- [212. Word Search II](https://discuss.leetcode.com/topic/33246/java-15ms-easiest-solution-100-00)
 - [211. Add and Search Word - Data structure design](https://discuss.leetcode.com/topic/14030/my-simple-and-clean-java-code)
 - [210. Course Schedule II](https://discuss.leetcode.com/topic/13873/two-ac-solution-in-java-using-bfs-and-dfs-with-explanation)
 - [208. Implement Trie (Prefix Tree)](https://discuss.leetcode.com/topic/19221/ac-java-solution-simple-using-single-array)
