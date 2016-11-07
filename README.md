@@ -7,6 +7,8 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [436. Find Right Interval]()
 - [435. Non-overlapping Intervals]()
 - [422. Valid Word Square](https://discuss.leetcode.com/topic/63377/accepted-concise-c-solution)
+- [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63207/java-o-n-solution-using-trie)
+- [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63213/java-o-n-solution-using-bit-manipulation-and-hashmap)
 - [417. Pacific Atlantic Water Flow](https://discuss.leetcode.com/topic/62379/java-bfs-dfs-from-ocean)
 - [409. Longest Palindrome](https://discuss.leetcode.com/topic/61300/simple-hashset-solution-java)
 - [407. Trapping Rain Water II](https://discuss.leetcode.com/topic/60418/java-solution-using-priorityqueue)
