@@ -16,6 +16,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [399. Evaluate Division](https://discuss.leetcode.com/topic/58482/9-lines-floyd-warshall-in-python)
 - [391. Perfect Rectangle](https://discuss.leetcode.com/topic/56052/really-easy-understanding-solution-o-n-java)
 - [388. Longest Absolute File Path](https://discuss.leetcode.com/topic/55247/9-lines-4ms-java-solution)
+- [378. Kth Smallest Element in a Sorted Matrix](https://discuss.leetcode.com/topic/53041/java-1ms-nlog-max-min-solution)
 - [378. Kth Smallest Element in a Sorted Matrix](https://discuss.leetcode.com/topic/52948/share-my-thoughts-and-clean-java-code)
 - [375. Guess Number Higher or Lower II](https://discuss.leetcode.com/topic/51358/java-dp-solution)
 - [375. Guess Number Higher or Lower II - 2](https://discuss.leetcode.com/topic/51487/an-o-n-2-dp-solution-quite-hard)
