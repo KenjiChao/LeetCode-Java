@@ -121,6 +121,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [199. Binary Tree Right Side View](https://discuss.leetcode.com/topic/11768/my-simple-accepted-solution-java)
 - [198. House Robber](https://discuss.leetcode.com/topic/11082/java-o-n-solution-space-o-1)
 - [173. Binary Search Tree Iterator](https://discuss.leetcode.com/topic/6575/my-solutions-in-3-languages-with-stack)
+- [170. Two Sum III - Data structure design](https://discuss.leetcode.com/topic/32449/trade-off-in-this-problem-should-be-considered)
 - [162. Find Peak Element](https://discuss.leetcode.com/topic/5724/find-the-maximum-by-binary-search-recursion-and-iteration)
 - [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
 - [146. LRU Cache](https://discuss.leetcode.com/topic/34701/java-easy-version-to-understand)
