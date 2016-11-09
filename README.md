@@ -99,6 +99,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [257. Binary Tree Paths](https://discuss.leetcode.com/topic/21474/accepted-java-simple-solution-in-8-lines)
 - [253. Meeting Rooms II](https://discuss.leetcode.com/topic/20958/ac-java-solution-using-min-heap)
 - [252. Meeting Rooms](https://discuss.leetcode.com/topic/20959/ac-clean-java-solution)
+- [251. Flatten 2D Vector](https://discuss.leetcode.com/topic/20697/7-9-lines-added-java-and-c-o-1-space)
 - [234. Palindrome Linked List](https://discuss.leetcode.com/topic/18304/share-my-c-solution-o-n-time-and-o-1-memory)
 - [232. Implement Queue using Stacks](https://discuss.leetcode.com/topic/17974/short-o-1-amortized-c-java-ruby)
 - [230. Kth Smallest Element in a BST](https://discuss.leetcode.com/topic/17810/3-ways-implemented-in-java-binary-search-in-order-iterative-recursive)
