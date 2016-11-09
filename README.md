@@ -36,6 +36,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [352. Data Stream as Disjoint Intervals](https://discuss.leetcode.com/topic/46887/java-solution-using-treemap-real-o-logn-per-adding)
 - [350. Intersection of Two Arrays II](https://discuss.leetcode.com/topic/45893/c-hash-table-solution-and-sort-two-pointers-solution-with-time-and-space-complexity)
 - [349. Intersection of Two Arrays](https://discuss.leetcode.com/topic/45685/three-java-solutions)
+- [348. Design Tic-Tac-Toe](https://discuss.leetcode.com/topic/44548/java-o-1-solution-easy-to-understand)
 - [347. Top K Frequent Elements](https://discuss.leetcode.com/topic/44237/java-o-n-solution-bucket-sort)
 - [346. Moving Average from Data Stream]()
 - [345. Reverse Vowels of a String](https://discuss.leetcode.com/topic/43412/java-standard-two-pointer-solution)
