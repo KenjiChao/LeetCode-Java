@@ -27,6 +27,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [368. Largest Divisible Subset](https://discuss.leetcode.com/topic/49456/c-solution-with-explanations)
 - [365. Water and Jug Problem](https://discuss.leetcode.com/topic/49238/math-solution-java-solution)
 - [363. Max Sum of Rectangle No Larger Than K](https://discuss.leetcode.com/topic/48875/accepted-c-codes-with-explanation-and-references)
+- [362. Design Hit Counter](https://discuss.leetcode.com/topic/48758/super-easy-design-o-1-hit-o-s-gethits-no-fancy-data-structure-is-needed)
 - [359. Logger Rate Limiter](https://discuss.leetcode.com/topic/48359/short-c-java-python-bit-different)
 - [357. Count Numbers with Unique Digits](https://discuss.leetcode.com/topic/48332/java-o-1-with-explanation)
 - [355. Design Twitter](https://discuss.leetcode.com/topic/47862/java-solution-using-hashmap-and-priorityqueue)
