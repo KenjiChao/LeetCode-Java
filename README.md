@@ -145,6 +145,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [126. Word Ladder II](https://discuss.leetcode.com/topic/2857/share-two-similar-java-solution-that-accpted-by-oj)
 - [125. Valid Palindrome](https://discuss.leetcode.com/topic/8282/accepted-pretty-java-solution-271ms)
 - [124. Binary Tree Maximum Path Sum](https://discuss.leetcode.com/topic/4407/accepted-short-solution-in-java)
+- [122. Best Time to Buy and Sell Stock II](https://discuss.leetcode.com/topic/726/is-this-question-a-joke)
 - [116. Populating Next Right Pointers in Each Node](https://discuss.leetcode.com/topic/2202/a-simple-accepted-solution)
 - [114. Flatten Binary Tree to Linked List](https://discuss.leetcode.com/topic/11444/my-short-post-order-traversal-java-solution-for-share)
 - [111. Minimum Depth of Binary Tree](https://discuss.leetcode.com/topic/8723/my-4-line-java-solution)
