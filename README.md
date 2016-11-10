@@ -145,6 +145,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [126. Word Ladder II](https://discuss.leetcode.com/topic/2857/share-two-similar-java-solution-that-accpted-by-oj)
 - [125. Valid Palindrome](https://discuss.leetcode.com/topic/8282/accepted-pretty-java-solution-271ms)
 - [124. Binary Tree Maximum Path Sum](https://discuss.leetcode.com/topic/4407/accepted-short-solution-in-java)
+- [123. Best Time to Buy and Sell Stock III](https://discuss.leetcode.com/topic/4766/a-clean-dp-solution-which-generalizes-to-k-transactions)
 - [122. Best Time to Buy and Sell Stock II](https://discuss.leetcode.com/topic/726/is-this-question-a-joke)
 - [121. Best Time to Buy and Sell Stock](https://discuss.leetcode.com/topic/19853/kadane-s-algorithm-since-no-one-has-mentioned-about-this-so-far-in-case-if-interviewer-twists-the-input)
 - [116. Populating Next Right Pointers in Each Node](https://discuss.leetcode.com/topic/2202/a-simple-accepted-solution)
