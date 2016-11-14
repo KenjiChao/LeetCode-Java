@@ -133,6 +133,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [170. Two Sum III - Data structure design](https://discuss.leetcode.com/topic/32449/trade-off-in-this-problem-should-be-considered)
 - [162. Find Peak Element](https://discuss.leetcode.com/topic/5724/find-the-maximum-by-binary-search-recursion-and-iteration)
 - [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
+- [148. Sort List](https://discuss.leetcode.com/topic/643/i-have-a-pretty-good-mergesort-method-can-anyone-speed-up-the-run-time-or-reduce-the-memory-usage)
 - [146. LRU Cache](https://discuss.leetcode.com/topic/34701/java-easy-version-to-understand)
 - [139. Word Break](https://discuss.leetcode.com/topic/6156/java-implementation-using-dp-in-two-ways)
 - [137. Single Number II](https://discuss.leetcode.com/topic/2031/challenge-me-thx)
