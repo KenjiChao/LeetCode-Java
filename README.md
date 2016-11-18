@@ -166,6 +166,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [90. Subsets II](https://discuss.leetcode.com/topic/46162/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning)
 - [85. Maximal Rectangle](https://discuss.leetcode.com/topic/6650/share-my-dp-solution)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
+- [80. Remove Duplicates from Sorted Array II](https://discuss.leetcode.com/topic/17180/3-6-easy-lines-c-java-python-ruby)
 - [79. Word Search](https://discuss.leetcode.com/topic/7907/accepted-very-short-java-solution-no-additional-space)
 - [78. Subsets](https://discuss.leetcode.com/topic/19110/c-recursive-iterative-bit-manipulation-solutions-with-explanations)
 - [68. Text Justification](https://discuss.leetcode.com/topic/4189/share-my-concise-c-solution-less-than-20-lines)
