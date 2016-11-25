@@ -69,6 +69,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [318. Maximum Product of Word Lengths](https://discuss.leetcode.com/topic/35539/java-easy-version-to-understand)
 - [315. Count of Smaller Numbers After Self](https://discuss.leetcode.com/topic/31173/my-simple-ac-java-binary-search-code)
 - [315. Count of Smaller Numbers After Self - II](https://discuss.leetcode.com/topic/31405/9ms-short-java-bst-solution-get-answer-when-building-bst)
+- [314. Binary Tree Vertical Order Traversal](https://discuss.leetcode.com/topic/31954/5ms-java-clean-solution)
 - [310. Minimum Height Trees](https://discuss.leetcode.com/topic/30572/share-some-thoughts)
 - [308. Range Sum Query 2D - Mutable](https://discuss.leetcode.com/topic/30343/java-2d-binary-indexed-tree-solution-clean-and-short-17ms)
 - [307. Range Sum Query - Mutable (Codeforces)](http://codeforces.com/blog/entry/18051)
