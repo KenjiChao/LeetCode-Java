@@ -93,6 +93,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [281. Zigzag Iterator](https://discuss.leetcode.com/topic/26654/simple-java-solution-for-k-vector)
 - [280. Wiggle Sort](https://discuss.leetcode.com/topic/23871/java-o-n-solution)
 - [279. Perfect Squares](https://discuss.leetcode.com/topic/26400/an-easy-understanding-dp-solution-in-java)
+- [277. Find the Celebrity](https://discuss.leetcode.com/topic/23534/java-solution-two-pass)
 - [275. H-Index II](https://discuss.leetcode.com/topic/23399/standard-binary-search)
 - [274. H-Index](https://discuss.leetcode.com/topic/23307/my-o-n-time-solution-use-java)
 - [273. Integer to English Words](https://discuss.leetcode.com/topic/23054/my-clean-java-solution-very-easy-to-understand)
