@@ -136,6 +136,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [173. Binary Search Tree Iterator](https://discuss.leetcode.com/topic/6575/my-solutions-in-3-languages-with-stack)
 - [170. Two Sum III - Data structure design](https://discuss.leetcode.com/topic/32449/trade-off-in-this-problem-should-be-considered)
 - [162. Find Peak Element](https://discuss.leetcode.com/topic/5724/find-the-maximum-by-binary-search-recursion-and-iteration)
+- [161. One Edit Distance](https://discuss.leetcode.com/topic/30308/my-clear-java-solution-with-explanation)
 - [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
 - [148. Sort List](https://discuss.leetcode.com/topic/643/i-have-a-pretty-good-mergesort-method-can-anyone-speed-up-the-run-time-or-reduce-the-memory-usage)
 - [147. Insertion Sort List](https://discuss.leetcode.com/topic/8570/an-easy-and-clear-way-to-sort-o-1-space)
