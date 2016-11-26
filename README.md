@@ -188,6 +188,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [26. Remove Duplicates from Sorted Array](https://discuss.leetcode.com/topic/3102/my-solution-time-o-n-space-o-1)
 - [22. Generate Parentheses](https://discuss.leetcode.com/topic/4485/concise-recursive-c-solution)
 - [21. Merge Two Sorted Lists](https://discuss.leetcode.com/topic/2513/a-recursive-solution)
+- [17. Letter Combinations of a Phone Number](https://discuss.leetcode.com/topic/8465/my-java-solution-with-fifo-queue)
 - [15. 3Sum](https://discuss.leetcode.com/topic/8125/concise-o-n-2-java-solution)
 - [11. Container With Most Water](https://discuss.leetcode.com/topic/16754/simple-and-fast-c-c-with-explanation)
 - [9. Palindrome Number](https://discuss.leetcode.com/topic/8090/9-line-accepted-java-code-without-the-need-of-handling-overflow)
