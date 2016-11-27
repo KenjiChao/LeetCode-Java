@@ -191,6 +191,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [31. Next Permutation](https://discuss.leetcode.com/topic/15216/a-simple-algorithm-from-wikipedia-with-c-implementation-can-be-used-in-permutations-and-permutations-ii)
 - [30. Substring with Concatenation of All Words](https://discuss.leetcode.com/topic/6617/an-o-n-solution-with-detailed-explanation)
 - [26. Remove Duplicates from Sorted Array](https://discuss.leetcode.com/topic/3102/my-solution-time-o-n-space-o-1)
+- [23. Merge k Sorted Lists](https://discuss.leetcode.com/topic/2780/a-java-solution-based-on-priority-queue)
 - [22. Generate Parentheses](https://discuss.leetcode.com/topic/4485/concise-recursive-c-solution)
 - [21. Merge Two Sorted Lists](https://discuss.leetcode.com/topic/2513/a-recursive-solution)
 - [17. Letter Combinations of a Phone Number](https://discuss.leetcode.com/topic/8465/my-java-solution-with-fifo-queue)
