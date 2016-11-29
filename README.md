@@ -168,6 +168,8 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [103. Binary Tree Zigzag Level Order Traversal](https://discuss.leetcode.com/topic/3413/my-accepted-java-solution)
 - [102. Binary Tree Level Order Traversal](https://discuss.leetcode.com/topic/7647/java-solution-with-a-queue-used)
 - [101. Symmetric Tree](https://discuss.leetcode.com/topic/16889/short-and-clean-java-iterative-solution)
+- [98. Validate Binary Search Tree](https://discuss.leetcode.com/topic/7179/my-simple-java-solution-in-3-lines)
+- [98. Validate Binary Search Tree II](https://discuss.leetcode.com/topic/46016/learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-java-solution)
 - [94. Binary Tree Inorder Traversal](https://discuss.leetcode.com/topic/6478/iterative-solution-in-java-simple-and-readable)
 - [91. Decode Ways](https://discuss.leetcode.com/topic/2562/dp-solution-java-for-reference)
 - [90. Subsets II](https://discuss.leetcode.com/topic/46162/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning)
