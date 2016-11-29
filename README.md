@@ -111,6 +111,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [245. Shortest Word Distance III](https://discuss.leetcode.com/topic/20887/12-16-lines-java-c)
 - [244. Shortest Word Distance II](https://discuss.leetcode.com/topic/20643/java-solution-using-hashmap)
 - [243. Shortest Word Distance](https://discuss.leetcode.com/topic/20668/ac-java-clean-solution)
+- [236. Lowest Common Ancestor of a Binary Tree](https://discuss.leetcode.com/topic/18561/4-lines-c-java-python-ruby)
 - [234. Palindrome Linked List](https://discuss.leetcode.com/topic/18304/share-my-c-solution-o-n-time-and-o-1-memory)
 - [232. Implement Queue using Stacks](https://discuss.leetcode.com/topic/17974/short-o-1-amortized-c-java-ruby)
 - [230. Kth Smallest Element in a BST](https://discuss.leetcode.com/topic/17810/3-ways-implemented-in-java-binary-search-in-order-iterative-recursive)
