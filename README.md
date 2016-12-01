@@ -188,6 +188,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
 - [47. Permutations II](https://discuss.leetcode.com/topic/31445/really-easy-java-solution-much-easier-than-the-solutions-with-very-high-vote)
 - [46. Permutations](https://discuss.leetcode.com/topic/5881/my-elegant-recursive-c-solution-with-inline-explanation)
+- [43. Multiply Strings](https://discuss.leetcode.com/topic/30508/easiest-java-solution-with-graph-explanation)
 - [42. Trapping Rain Water](https://discuss.leetcode.com/topic/5125/sharing-my-simple-c-code-o-n-time-o-1-space)
 - [40. Combination Sum II](https://discuss.leetcode.com/topic/19845/java-solution-using-dfs-easy-understand)
 - [39. Combination Sum](https://discuss.leetcode.com/topic/7698/java-solution-using-recursive)
