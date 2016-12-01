@@ -194,6 +194,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [42. Trapping Rain Water](https://discuss.leetcode.com/topic/5125/sharing-my-simple-c-code-o-n-time-o-1-space)
 - [40. Combination Sum II](https://discuss.leetcode.com/topic/19845/java-solution-using-dfs-easy-understand)
 - [39. Combination Sum](https://discuss.leetcode.com/topic/7698/java-solution-using-recursive)
+- [38. Count and Say](https://discuss.leetcode.com/topic/2309/show-an-answer-in-java)
 - [34. Search for a Range](https://discuss.leetcode.com/topic/6327/a-very-simple-java-solution-with-only-one-binary-search-algorithm)
 - [31. Next Permutation](https://discuss.leetcode.com/topic/15216/a-simple-algorithm-from-wikipedia-with-c-implementation-can-be-used-in-permutations-and-permutations-ii)
 - [30. Substring with Concatenation of All Words](https://discuss.leetcode.com/topic/6617/an-o-n-solution-with-detailed-explanation)
