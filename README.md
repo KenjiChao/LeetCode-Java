@@ -20,6 +20,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [379. Design Phone Directory](https://discuss.leetcode.com/topic/53094/java-ac-solution-using-queue-and-set)
 - [378. Kth Smallest Element in a Sorted Matrix](https://discuss.leetcode.com/topic/53041/java-1ms-nlog-max-min-solution)
 - [378. Kth Smallest Element in a Sorted Matrix](https://discuss.leetcode.com/topic/52948/share-my-thoughts-and-clean-java-code)
+- [377. Combination Sum IV](https://discuss.leetcode.com/topic/52302/1ms-java-dp-solution-with-detailed-explanation)
 - [375. Guess Number Higher or Lower II](https://discuss.leetcode.com/topic/51358/java-dp-solution)
 - [375. Guess Number Higher or Lower II - 2](https://discuss.leetcode.com/topic/51487/an-o-n-2-dp-solution-quite-hard)
 - [374. Guess Number Higher or Lower](https://discuss.leetcode.com/topic/51758/1ms-java-binary-search-solution)
