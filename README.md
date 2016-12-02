@@ -107,6 +107,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [261. Graph Valid Tree](https://discuss.leetcode.com/topic/21712/ac-java-union-find-solution)
 - [260. Single Number III](https://discuss.leetcode.com/topic/21605/accepted-c-java-o-n-time-o-1-space-easy-solution-with-detail-explanations)
 - [257. Binary Tree Paths](https://discuss.leetcode.com/topic/21474/accepted-java-simple-solution-in-8-lines)
+- [254. Factor Combinations](https://discuss.leetcode.com/topic/21082/my-recursive-dfs-java-solution)
 - [253. Meeting Rooms II](https://discuss.leetcode.com/topic/20958/ac-java-solution-using-min-heap)
 - [252. Meeting Rooms](https://discuss.leetcode.com/topic/20959/ac-clean-java-solution)
 - [251. Flatten 2D Vector](https://discuss.leetcode.com/topic/20697/7-9-lines-added-java-and-c-o-1-space)
