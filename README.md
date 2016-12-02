@@ -184,6 +184,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [80. Remove Duplicates from Sorted Array II](https://discuss.leetcode.com/topic/17180/3-6-easy-lines-c-java-python-ruby)
 - [79. Word Search](https://discuss.leetcode.com/topic/7907/accepted-very-short-java-solution-no-additional-space)
 - [78. Subsets](https://discuss.leetcode.com/topic/19110/c-recursive-iterative-bit-manipulation-solutions-with-explanations)
+- [77. Combinations](https://discuss.leetcode.com/topic/11718/backtracking-solution-java)
 - [75. Sort Colors](https://discuss.leetcode.com/topic/5422/share-my-one-pass-constant-space-10-line-solution)
 - [72. Edit Distance](https://discuss.leetcode.com/topic/17639/20ms-detailed-explained-c-solutions-o-n-space)
 - [68. Text Justification](https://discuss.leetcode.com/topic/4189/share-my-concise-c-solution-less-than-20-lines)
