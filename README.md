@@ -196,6 +196,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [57. Insert Interval](https://discuss.leetcode.com/topic/7808/short-and-straight-forward-java-solution)
 - [56. Merge Intervals](https://discuss.leetcode.com/topic/4319/a-simple-java-solution)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
+- [50. Pow(x, n)](https://discuss.leetcode.com/topic/21837/5-different-choices-when-talk-with-interviewers)
 - [49. Group Anagrams](https://discuss.leetcode.com/topic/24494/share-my-short-java-solution)
 - [47. Permutations II](https://discuss.leetcode.com/topic/31445/really-easy-java-solution-much-easier-than-the-solutions-with-very-high-vote)
 - [46. Permutations](https://discuss.leetcode.com/topic/5881/my-elegant-recursive-c-solution-with-inline-explanation)
