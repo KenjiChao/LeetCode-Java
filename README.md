@@ -189,6 +189,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [79. Word Search](https://discuss.leetcode.com/topic/7907/accepted-very-short-java-solution-no-additional-space)
 - [78. Subsets](https://discuss.leetcode.com/topic/19110/c-recursive-iterative-bit-manipulation-solutions-with-explanations)
 - [77. Combinations](https://discuss.leetcode.com/topic/11718/backtracking-solution-java)
+- [76. Minimum Window Substring](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)
 - [75. Sort Colors](https://discuss.leetcode.com/topic/5422/share-my-one-pass-constant-space-10-line-solution)
 - [72. Edit Distance](https://discuss.leetcode.com/topic/17639/20ms-detailed-explained-c-solutions-o-n-space)
 - [71. Simplify Path](https://discuss.leetcode.com/topic/7675/java-10-lines-solution-with-stack)
