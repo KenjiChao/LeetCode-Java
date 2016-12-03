@@ -212,6 +212,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [23. Merge k Sorted Lists](https://discuss.leetcode.com/topic/2780/a-java-solution-based-on-priority-queue)
 - [22. Generate Parentheses](https://discuss.leetcode.com/topic/4485/concise-recursive-c-solution)
 - [21. Merge Two Sorted Lists](https://discuss.leetcode.com/topic/2513/a-recursive-solution)
+- [20. Valid Parentheses](https://discuss.leetcode.com/topic/7813/my-easy-to-understand-java-solution-with-one-stack)
 - [17. Letter Combinations of a Phone Number](https://discuss.leetcode.com/topic/8465/my-java-solution-with-fifo-queue)
 - [15. 3Sum](https://discuss.leetcode.com/topic/8125/concise-o-n-2-java-solution)
 - [13. Roman to Integer](https://discuss.leetcode.com/topic/821/my-solution-for-this-question-but-i-don-t-know-is-there-any-easier-way)
