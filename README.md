@@ -190,6 +190,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [77. Combinations](https://discuss.leetcode.com/topic/11718/backtracking-solution-java)
 - [75. Sort Colors](https://discuss.leetcode.com/topic/5422/share-my-one-pass-constant-space-10-line-solution)
 - [72. Edit Distance](https://discuss.leetcode.com/topic/17639/20ms-detailed-explained-c-solutions-o-n-space)
+- [69. Sqrt(x)](https://discuss.leetcode.com/topic/1225/solve-this-problem-with-binary-search)
 - [68. Text Justification](https://discuss.leetcode.com/topic/4189/share-my-concise-c-solution-less-than-20-lines)
 - [67. Add Binary](https://discuss.leetcode.com/topic/8981/short-code-by-c)
 - [66. Plus One](https://discuss.leetcode.com/topic/24288/my-simple-java-solution)
