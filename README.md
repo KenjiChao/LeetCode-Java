@@ -10,6 +10,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63207/java-o-n-solution-using-trie)
 - [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63213/java-o-n-solution-using-bit-manipulation-and-hashmap)
 - [417. Pacific Atlantic Water Flow](https://discuss.leetcode.com/topic/62379/java-bfs-dfs-from-ocean)
+- [410. Split Array Largest Sum](https://discuss.leetcode.com/topic/61324/clear-explanation-8ms-binary-search-java)
 - [409. Longest Palindrome](https://discuss.leetcode.com/topic/61300/simple-hashset-solution-java)
 - [407. Trapping Rain Water II](https://discuss.leetcode.com/topic/60418/java-solution-using-priorityqueue)
 - [406. Queue Reconstruction by Height](https://discuss.leetcode.com/topic/60394/easy-concept-with-python-c-java-solution)
