@@ -128,6 +128,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [221. Maximal Square](https://discuss.leetcode.com/topic/15328/easy-dp-solution-in-c-with-detailed-explanations-8ms-o-n-2-time-and-o-n-space)
 - [220. Contains Duplicate III](https://leetcode.com/articles/contains-duplicate-iii/)
 - [219. Contains Duplicate II](https://discuss.leetcode.com/topic/15305/simple-java-solution)
+- [218. The Skyline Problem](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 - [217. Contains Duplicate](https://discuss.leetcode.com/topic/14730/possible-solutions)
 - [216. Combination Sum III](https://discuss.leetcode.com/topic/26351/simple-and-clean-java-code-backtracking)
 - [215. Kth Largest Element in an Array](https://discuss.leetcode.com/topic/14597/solution-explained)
