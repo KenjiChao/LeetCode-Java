@@ -94,6 +94,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [285. Inorder Successor in BST](https://discuss.leetcode.com/topic/25076/share-my-java-recursive-solution)
 - [284. Peeking Iterator](https://discuss.leetcode.com/topic/24883/concise-java-solution)
 - [283. Move Zeroes](https://discuss.leetcode.com/topic/24716/simple-o-n-java-solution-using-insert-index)
+- [282. Expression Add Operators](https://discuss.leetcode.com/topic/24523/java-standard-backtrace-ac-solutoin-short-and-clear)
 - [281. Zigzag Iterator](https://discuss.leetcode.com/topic/26654/simple-java-solution-for-k-vector)
 - [280. Wiggle Sort](https://discuss.leetcode.com/topic/23871/java-o-n-solution)
 - [279. Perfect Squares](https://discuss.leetcode.com/topic/26400/an-easy-understanding-dp-solution-in-java)
