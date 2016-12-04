@@ -162,6 +162,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [132. Palindrome Partitioning II](https://discuss.leetcode.com/topic/2840/my-solution-does-not-need-a-table-for-palindrome-is-it-right-it-uses-only-o-n-space)
 - [131. Palindrome Partitioning](https://discuss.leetcode.com/topic/46159/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partitioning)
 - [130. Surrounded Regions](https://discuss.leetcode.com/topic/17224/a-really-simple-and-readable-c-solution-only-cost-12ms)
+- [128. Longest Consecutive Sequence](https://discuss.leetcode.com/topic/6148/my-really-simple-java-o-n-solution-accepted)
 - [127. Word Ladder](https://discuss.leetcode.com/topic/29303/two-end-bfs-in-java-31ms)
 - [126. Word Ladder II](https://discuss.leetcode.com/topic/2857/share-two-similar-java-solution-that-accpted-by-oj)
 - [125. Valid Palindrome](https://discuss.leetcode.com/topic/8282/accepted-pretty-java-solution-271ms)
