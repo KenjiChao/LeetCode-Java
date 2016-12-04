@@ -18,6 +18,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [398. Random Pick Index](https://discuss.leetcode.com/topic/58301/simple-reservoir-sampling-solution)
 - [391. Perfect Rectangle](https://discuss.leetcode.com/topic/56052/really-easy-understanding-solution-o-n-java)
 - [388. Longest Absolute File Path](https://discuss.leetcode.com/topic/55247/9-lines-4ms-java-solution)
+- [380. Insert Delete GetRandom O(1)](https://discuss.leetcode.com/topic/53216/java-solution-using-a-hashmap-and-an-arraylist-along-with-a-follow-up-131-ms)
 - [379. Design Phone Directory](https://discuss.leetcode.com/topic/53094/java-ac-solution-using-queue-and-set)
 - [378. Kth Smallest Element in a Sorted Matrix](https://discuss.leetcode.com/topic/53041/java-1ms-nlog-max-min-solution)
 - [378. Kth Smallest Element in a Sorted Matrix](https://discuss.leetcode.com/topic/52948/share-my-thoughts-and-clean-java-code)
