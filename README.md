@@ -219,6 +219,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [30. Substring with Concatenation of All Words](https://discuss.leetcode.com/topic/6617/an-o-n-solution-with-detailed-explanation)
 - [28. Implement strStr()](https://discuss.leetcode.com/topic/18839/elegant-java-solution)
 - [26. Remove Duplicates from Sorted Array](https://discuss.leetcode.com/topic/3102/my-solution-time-o-n-space-o-1)
+- [25. Reverse Nodes in k-Group](https://discuss.leetcode.com/topic/5604/share-my-java-solution-with-comments-in-line)
 - [23. Merge k Sorted Lists](https://discuss.leetcode.com/topic/2780/a-java-solution-based-on-priority-queue)
 - [22. Generate Parentheses](https://discuss.leetcode.com/topic/4485/concise-recursive-c-solution)
 - [21. Merge Two Sorted Lists](https://discuss.leetcode.com/topic/2513/a-recursive-solution)
