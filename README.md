@@ -175,6 +175,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [123. Best Time to Buy and Sell Stock III](https://discuss.leetcode.com/topic/4766/a-clean-dp-solution-which-generalizes-to-k-transactions)
 - [122. Best Time to Buy and Sell Stock II](https://discuss.leetcode.com/topic/726/is-this-question-a-joke)
 - [121. Best Time to Buy and Sell Stock](https://discuss.leetcode.com/topic/19853/kadane-s-algorithm-since-no-one-has-mentioned-about-this-so-far-in-case-if-interviewer-twists-the-input)
+- [117. Populating Next Right Pointers in Each Node II](https://discuss.leetcode.com/topic/1106/o-1-space-o-n-complexity-iterative-solution)
 - [116. Populating Next Right Pointers in Each Node](https://discuss.leetcode.com/topic/2202/a-simple-accepted-solution)
 - [114. Flatten Binary Tree to Linked List](https://discuss.leetcode.com/topic/11444/my-short-post-order-traversal-java-solution-for-share)
 - [111. Minimum Depth of Binary Tree](https://discuss.leetcode.com/topic/8723/my-4-line-java-solution)
