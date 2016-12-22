@@ -195,6 +195,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [88. Merge Sorted Array](https://discuss.leetcode.com/topic/2461/this-is-my-ac-code-may-help-you)
 - [85. Maximal Rectangle](https://discuss.leetcode.com/topic/6650/share-my-dp-solution)
 - [84. Largest Rectangle in Histogram](https://discuss.leetcode.com/topic/7599/o-n-stack-based-java-solution)
+- [81. Search in Rotated Sorted Array II](https://discuss.leetcode.com/topic/8087/c-concise-log-n-solution)
 - [80. Remove Duplicates from Sorted Array II](https://discuss.leetcode.com/topic/17180/3-6-easy-lines-c-java-python-ruby)
 - [79. Word Search](https://discuss.leetcode.com/topic/7907/accepted-very-short-java-solution-no-additional-space)
 - [78. Subsets](https://discuss.leetcode.com/topic/19110/c-recursive-iterative-bit-manipulation-solutions-with-explanations)
