@@ -156,6 +156,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [161. One Edit Distance](https://discuss.leetcode.com/topic/30308/my-clear-java-solution-with-explanation)
 - [157. Read N Characters Given Read4](https://discuss.leetcode.com/topic/18289/another-accepted-java-solution)
 - [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
+- [153. Find Minimum in Rotated Sorted Array](https://discuss.leetcode.com/topic/4100/compact-and-clean-c-solution)
 - [152. Maximum Product Subarray](https://discuss.leetcode.com/topic/3607/sharing-my-solution-o-1-space-o-n-running-time)
 - [148. Sort List](https://discuss.leetcode.com/topic/643/i-have-a-pretty-good-mergesort-method-can-anyone-speed-up-the-run-time-or-reduce-the-memory-usage)
 - [147. Insertion Sort List](https://discuss.leetcode.com/topic/8570/an-easy-and-clear-way-to-sort-o-1-space)
