@@ -221,6 +221,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [39. Combination Sum](https://discuss.leetcode.com/topic/7698/java-solution-using-recursive)
 - [38. Count and Say](https://discuss.leetcode.com/topic/2309/show-an-answer-in-java)
 - [34. Search for a Range](https://discuss.leetcode.com/topic/6327/a-very-simple-java-solution-with-only-one-binary-search-algorithm)
+- [33. Search in Rotated Sorted Array](https://discuss.leetcode.com/topic/3538/concise-o-log-n-binary-search-solution)
 - [31. Next Permutation](https://discuss.leetcode.com/topic/15216/a-simple-algorithm-from-wikipedia-with-c-implementation-can-be-used-in-permutations-and-permutations-ii)
 - [30. Substring with Concatenation of All Words](https://discuss.leetcode.com/topic/6617/an-o-n-solution-with-detailed-explanation)
 - [28. Implement strStr()](https://discuss.leetcode.com/topic/18839/elegant-java-solution)
