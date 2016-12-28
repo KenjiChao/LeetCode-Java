@@ -4,6 +4,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 
 ## Great Discussions For Inspiration
 
+- [461. Hamming Distance](https://discuss.leetcode.com/topic/72089/java-3-line-solution)
 - [436. Find Right Interval]()
 - [435. Non-overlapping Intervals]()
 - [422. Valid Word Square](https://discuss.leetcode.com/topic/63377/accepted-concise-c-solution)
