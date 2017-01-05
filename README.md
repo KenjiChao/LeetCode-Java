@@ -156,6 +156,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [168. Excel Sheet Column Title](https://discuss.leetcode.com/topic/6214/my-1-lines-code-in-java-c-and-python)
 - [162. Find Peak Element](https://discuss.leetcode.com/topic/5724/find-the-maximum-by-binary-search-recursion-and-iteration)
 - [161. One Edit Distance](https://discuss.leetcode.com/topic/30308/my-clear-java-solution-with-explanation)
+- [158. Read N Characters Given Read4 II - Call multiple times](https://discuss.leetcode.com/topic/7094/a-simple-java-code)
 - [157. Read N Characters Given Read4](https://discuss.leetcode.com/topic/18289/another-accepted-java-solution)
 - [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
 - [154. Find Minimum in Rotated Sorted Array II](https://discuss.leetcode.com/topic/6468/my-pretty-simple-code-to-solve-it)
