@@ -11,6 +11,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [422. Valid Word Square](https://discuss.leetcode.com/topic/63377/accepted-concise-c-solution)
 - [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63207/java-o-n-solution-using-trie)
 - [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63213/java-o-n-solution-using-bit-manipulation-and-hashmap)
+- [418. Sentence Screen Fitting](https://discuss.leetcode.com/topic/62455/21ms-18-lines-java-solution)
 - [417. Pacific Atlantic Water Flow](https://discuss.leetcode.com/topic/62379/java-bfs-dfs-from-ocean)
 - [410. Split Array Largest Sum](https://discuss.leetcode.com/topic/61324/clear-explanation-8ms-binary-search-java)
 - [409. Longest Palindrome](https://discuss.leetcode.com/topic/61300/simple-hashset-solution-java)
