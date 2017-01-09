@@ -5,6 +5,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 ## Great Discussions For Inspiration
 
 - [477. Total Hamming Distance](https://discuss.leetcode.com/topic/72092/java-o-n-time-o-1-space)
+- [471. Encode String with Shortest Length](https://discuss.leetcode.com/topic/71963/accepted-solution-in-java)
 - [461. Hamming Distance](https://discuss.leetcode.com/topic/72089/java-3-line-solution)
 - [436. Find Right Interval]()
 - [435. Non-overlapping Intervals]()
