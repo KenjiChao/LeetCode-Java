@@ -21,6 +21,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [404. Sum of Left Leaves](https://discuss.leetcode.com/topic/60403/java-iterative-and-recursive-solutions)
 - [399. Evaluate Division](https://discuss.leetcode.com/topic/58482/9-lines-floyd-warshall-in-python)
 - [398. Random Pick Index](https://discuss.leetcode.com/topic/58301/simple-reservoir-sampling-solution)
+- [394. Decode String](https://discuss.leetcode.com/topic/57228/0ms-simple-c-solution)
 - [391. Perfect Rectangle](https://discuss.leetcode.com/topic/56052/really-easy-understanding-solution-o-n-java)
 - [388. Longest Absolute File Path](https://discuss.leetcode.com/topic/55247/9-lines-4ms-java-solution)
 - [380. Insert Delete GetRandom O(1)](https://discuss.leetcode.com/topic/53216/java-solution-using-a-hashmap-and-an-arraylist-along-with-a-follow-up-131-ms)
