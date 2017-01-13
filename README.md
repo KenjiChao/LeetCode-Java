@@ -10,6 +10,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [461. Hamming Distance](https://discuss.leetcode.com/topic/72089/java-3-line-solution)
 - [436. Find Right Interval]()
 - [435. Non-overlapping Intervals]()
+- [425. Word Squares](https://discuss.leetcode.com/topic/63516/explained-my-java-solution-using-trie-126ms-16-16)
 - [422. Valid Word Square](https://discuss.leetcode.com/topic/63377/accepted-concise-c-solution)
 - [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63207/java-o-n-solution-using-trie)
 - [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63213/java-o-n-solution-using-bit-manipulation-and-hashmap)
