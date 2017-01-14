@@ -122,6 +122,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [263. Ugly Number](https://discuss.leetcode.com/topic/21785/2-4-lines-every-language)
 - [261. Graph Valid Tree](https://discuss.leetcode.com/topic/21712/ac-java-union-find-solution)
 - [260. Single Number III](https://discuss.leetcode.com/topic/21605/accepted-c-java-o-n-time-o-1-space-easy-solution-with-detail-explanations)
+- [259. 3Sum Smaller](https://discuss.leetcode.com/topic/23421/simple-and-easy-understanding-o-n-2-java-solution)
 - [257. Binary Tree Paths](https://discuss.leetcode.com/topic/21474/accepted-java-simple-solution-in-8-lines)
 - [256. Paint House](https://discuss.leetcode.com/topic/21311/simple-java-dp-solution)
 - [254. Factor Combinations](https://discuss.leetcode.com/topic/21082/my-recursive-dfs-java-solution)
