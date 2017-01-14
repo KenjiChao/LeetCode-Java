@@ -49,6 +49,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [354. Russian Doll Envelopes](https://discuss.leetcode.com/topic/47469/java-nlogn-solution-with-explanation)
 - [353. Design Snake Game](https://discuss.leetcode.com/topic/48626/java-deque-and-hashset-design-with-detailed-comments)
 - [352. Data Stream as Disjoint Intervals](https://discuss.leetcode.com/topic/46887/java-solution-using-treemap-real-o-logn-per-adding)
+- [351. Android Unlock Patterns](https://discuss.leetcode.com/topic/46260/java-dfs-solution-with-clear-explanations-and-optimization-beats-97-61-12ms)
 - [350. Intersection of Two Arrays II](https://discuss.leetcode.com/topic/45893/c-hash-table-solution-and-sort-two-pointers-solution-with-time-and-space-complexity)
 - [349. Intersection of Two Arrays](https://discuss.leetcode.com/topic/45685/three-java-solutions)
 - [348. Design Tic-Tac-Toe](https://discuss.leetcode.com/topic/44548/java-o-1-solution-easy-to-understand)
