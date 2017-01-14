@@ -129,6 +129,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [253. Meeting Rooms II](https://discuss.leetcode.com/topic/20958/ac-java-solution-using-min-heap)
 - [252. Meeting Rooms](https://discuss.leetcode.com/topic/20959/ac-clean-java-solution)
 - [251. Flatten 2D Vector](https://discuss.leetcode.com/topic/20697/7-9-lines-added-java-and-c-o-1-space)
+- [246. Strobogrammatic Number](https://discuss.leetcode.com/topic/20837/4-lines-in-java)
 - [245. Shortest Word Distance III](https://discuss.leetcode.com/topic/20887/12-16-lines-java-c)
 - [244. Shortest Word Distance II](https://discuss.leetcode.com/topic/20643/java-solution-using-hashmap)
 - [243. Shortest Word Distance](https://discuss.leetcode.com/topic/20668/ac-java-clean-solution)
