@@ -12,6 +12,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [463. Island Perimeter](https://discuss.leetcode.com/topic/68786/clear-and-easy-java-solution)
 - [461. Hamming Distance](https://discuss.leetcode.com/topic/72089/java-3-line-solution)
 - [459. Repeated Substring Pattern](https://discuss.leetcode.com/topic/67992/java-simple-solution-with-explanation)
+- [451. Sort Characters By Frequency](https://discuss.leetcode.com/topic/66045/c-o-n-solution-without-sort)
 - [448. Find All Numbers Disappeared in an Array](https://discuss.leetcode.com/topic/66063/5-line-java-easy-understanding)
 - [447. Number of Boomerangs](https://discuss.leetcode.com/topic/66587/clean-java-solution-o-n-2-166ms)
 - [436. Find Right Interval]()
