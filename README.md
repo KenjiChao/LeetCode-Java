@@ -6,6 +6,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 
 - [485. Max Consecutive Ones](https://discuss.leetcode.com/topic/75437/java-4-lines-concise-solution-with-explanation)
 - [482. License Key Formatting](https://discuss.leetcode.com/topic/74995/java-5-lines-clean-solution)
+- [481. Magical String](https://discuss.leetcode.com/topic/74917/simple-java-solution-using-one-array-and-two-pointers)
 - [477. Total Hamming Distance](https://discuss.leetcode.com/topic/72092/java-o-n-time-o-1-space)
 - [475. Heaters](https://discuss.leetcode.com/topic/71460/short-and-clean-java-binary-search-solution)
 - [471. Encode String with Shortest Length](https://discuss.leetcode.com/topic/71963/accepted-solution-in-java)
