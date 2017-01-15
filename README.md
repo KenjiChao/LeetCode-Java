@@ -138,6 +138,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [253. Meeting Rooms II](https://discuss.leetcode.com/topic/20958/ac-java-solution-using-min-heap)
 - [252. Meeting Rooms](https://discuss.leetcode.com/topic/20959/ac-clean-java-solution)
 - [251. Flatten 2D Vector](https://discuss.leetcode.com/topic/20697/7-9-lines-added-java-and-c-o-1-space)
+- [249. Group Shifted Strings](https://discuss.leetcode.com/topic/20722/my-concise-java-solution)
 - [248. Strobogrammatic Number III](https://discuss.leetcode.com/topic/31386/concise-java-solution)
 - [247. Strobogrammatic Number II](https://discuss.leetcode.com/topic/20753/ac-clean-java-solution)
 - [246. Strobogrammatic Number](https://discuss.leetcode.com/topic/20837/4-lines-in-java)
