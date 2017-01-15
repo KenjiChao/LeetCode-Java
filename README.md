@@ -50,6 +50,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [372. Super Pow](https://discuss.leetcode.com/topic/50504/java-4ms-solution-using-the-remainder-repeat-pattern)
 - [371. Sum of Two Integers](https://discuss.leetcode.com/topic/49771/java-simple-easy-understand-solution-with-explanation)
 - [370. Range Addition](https://discuss.leetcode.com/topic/49691/java-o-k-n-time-complexity-solution)
+- [369. Plus One Linked List](https://discuss.leetcode.com/topic/49556/iterative-two-pointers-with-dummy-node-java-o-n-time-o-1-space)
 - [368. Largest Divisible Subset](https://discuss.leetcode.com/topic/49456/c-solution-with-explanations)
 - [365. Water and Jug Problem](https://discuss.leetcode.com/topic/49238/math-solution-java-solution)
 - [363. Max Sum of Rectangle No Larger Than K](https://discuss.leetcode.com/topic/48875/accepted-c-codes-with-explanation-and-references)
