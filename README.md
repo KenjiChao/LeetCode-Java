@@ -24,6 +24,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [407. Trapping Rain Water II](https://discuss.leetcode.com/topic/60418/java-solution-using-priorityqueue)
 - [406. Queue Reconstruction by Height](https://discuss.leetcode.com/topic/60394/easy-concept-with-python-c-java-solution)
 - [404. Sum of Left Leaves](https://discuss.leetcode.com/topic/60403/java-iterative-and-recursive-solutions)
+- [401. Binary Watch](https://discuss.leetcode.com/topic/59374/simple-python-java)
 - [400. Nth Digit](https://discuss.leetcode.com/topic/59314/java-solution)
 - [399. Evaluate Division](https://discuss.leetcode.com/topic/58482/9-lines-floyd-warshall-in-python)
 - [398. Random Pick Index](https://discuss.leetcode.com/topic/58301/simple-reservoir-sampling-solution)
