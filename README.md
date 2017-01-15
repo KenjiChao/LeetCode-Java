@@ -23,6 +23,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [415. Add Strings](https://discuss.leetcode.com/topic/62310/straightforward-java-8-main-lines-25ms)
 - [410. Split Array Largest Sum](https://discuss.leetcode.com/topic/61324/clear-explanation-8ms-binary-search-java)
 - [409. Longest Palindrome](https://discuss.leetcode.com/topic/61300/simple-hashset-solution-java)
+- [408. Valid Word Abbreviation](https://discuss.leetcode.com/topic/61348/short-and-easy-to-understand-java-solution)
 - [407. Trapping Rain Water II](https://discuss.leetcode.com/topic/60418/java-solution-using-priorityqueue)
 - [406. Queue Reconstruction by Height](https://discuss.leetcode.com/topic/60394/easy-concept-with-python-c-java-solution)
 - [404. Sum of Left Leaves](https://discuss.leetcode.com/topic/60403/java-iterative-and-recursive-solutions)
