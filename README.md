@@ -29,6 +29,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [394. Decode String](https://discuss.leetcode.com/topic/57228/0ms-simple-c-solution)
 - [393. UTF-8 Validation](https://discuss.leetcode.com/topic/57195/concise-c-implementation)
 - [391. Perfect Rectangle](https://discuss.leetcode.com/topic/56052/really-easy-understanding-solution-o-n-java)
+- [389. Find the Difference](https://discuss.leetcode.com/topic/55912/java-solution-using-bit-manipulation)
 - [388. Longest Absolute File Path](https://discuss.leetcode.com/topic/55247/9-lines-4ms-java-solution)
 - [380. Insert Delete GetRandom O(1)](https://discuss.leetcode.com/topic/53216/java-solution-using-a-hashmap-and-an-arraylist-along-with-a-follow-up-131-ms)
 - [379. Design Phone Directory](https://discuss.leetcode.com/topic/53094/java-ac-solution-using-queue-and-set)
