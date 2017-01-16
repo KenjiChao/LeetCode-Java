@@ -105,6 +105,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [314. Binary Tree Vertical Order Traversal](https://discuss.leetcode.com/topic/31954/5ms-java-clean-solution)
 - [311. Sparse Matrix Multiplication](https://discuss.leetcode.com/topic/30625/easiest-java-solution)
 - [310. Minimum Height Trees](https://discuss.leetcode.com/topic/30572/share-some-thoughts)
+- [309. Best Time to Buy and Sell Stock with Cooldown](https://discuss.leetcode.com/topic/30421/share-my-thinking-process)
 - [308. Range Sum Query 2D - Mutable](https://discuss.leetcode.com/topic/30343/java-2d-binary-indexed-tree-solution-clean-and-short-17ms)
 - [307. Range Sum Query - Mutable (Codeforces)](http://codeforces.com/blog/entry/18051)
 - [307. Range Sum Query - Mutable](https://discuss.leetcode.com/topic/31599/java-using-binary-indexed-tree-with-clear-explanation)
