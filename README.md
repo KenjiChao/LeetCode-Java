@@ -255,6 +255,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [66. Plus One](https://discuss.leetcode.com/topic/24288/my-simple-java-solution)
 - [57. Insert Interval](https://discuss.leetcode.com/topic/7808/short-and-straight-forward-java-solution)
 - [56. Merge Intervals](https://discuss.leetcode.com/topic/4319/a-simple-java-solution)
+- [54. Spiral Matrix](https://discuss.leetcode.com/topic/3713/super-simple-and-easy-to-understand-solution)
 - [53. Maximum Subarray](https://discuss.leetcode.com/topic/5000/accepted-o-n-solution-in-java)
 - [50. Pow(x, n)](https://discuss.leetcode.com/topic/21837/5-different-choices-when-talk-with-interviewers)
 - [49. Group Anagrams](https://discuss.leetcode.com/topic/24494/share-my-short-java-solution)
