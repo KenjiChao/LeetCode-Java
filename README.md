@@ -242,6 +242,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [77. Combinations](https://discuss.leetcode.com/topic/11718/backtracking-solution-java)
 - [76. Minimum Window Substring](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)
 - [75. Sort Colors](https://discuss.leetcode.com/topic/5422/share-my-one-pass-constant-space-10-line-solution)
+- [74. Search a 2D Matrix](https://discuss.leetcode.com/topic/3227/don-t-treat-it-as-a-2d-matrix-just-treat-it-as-a-sorted-list)
 - [72. Edit Distance](https://discuss.leetcode.com/topic/17639/20ms-detailed-explained-c-solutions-o-n-space)
 - [71. Simplify Path](https://discuss.leetcode.com/topic/7675/java-10-lines-solution-with-stack)
 - [69. Sqrt(x)](https://discuss.leetcode.com/topic/1225/solve-this-problem-with-binary-search)
