@@ -115,6 +115,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [298. Binary Tree Longest Consecutive Sequence](https://discuss.leetcode.com/topic/29205/simple-recursive-dfs-without-global-variable)
 - [297. Serialize and Deserialize Binary Tree](https://discuss.leetcode.com/topic/28029/easy-to-understand-java-solution)
 - [295. Find Median from Data Stream](https://discuss.leetcode.com/topic/27521/short-simple-java-c-python-o-log-n-o-1)
+- [294. Flip Game II](https://discuss.leetcode.com/topic/27282/theory-matters-from-backtracking-128ms-to-dp-0ms)
 - [293. Flip Game](https://discuss.leetcode.com/topic/27232/4-lines-in-java)
 - [289. Game of Life](https://discuss.leetcode.com/topic/29054/easiest-java-solution-with-explanation)
 - [288. Unique Word Abbreviation](https://discuss.leetcode.com/topic/30533/java-solution-with-one-hashmap-string-string-beats-90-of-submissions)
