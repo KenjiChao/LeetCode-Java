@@ -64,6 +64,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [360. Sort Transformed Array](https://discuss.leetcode.com/topic/48424/java-o-n-incredibly-short-yet-easy-to-understand-ac-solution)
 - [359. Logger Rate Limiter](https://discuss.leetcode.com/topic/48359/short-c-java-python-bit-different)
 - [357. Count Numbers with Unique Digits](https://discuss.leetcode.com/topic/48332/java-o-1-with-explanation)
+- [356. Line Reflection](https://discuss.leetcode.com/topic/48172/simple-java-hashset-solution)
 - [355. Design Twitter](https://discuss.leetcode.com/topic/47862/java-solution-using-hashmap-and-priorityqueue)
 - [354. Russian Doll Envelopes](https://discuss.leetcode.com/topic/47469/java-nlogn-solution-with-explanation)
 - [353. Design Snake Game](https://discuss.leetcode.com/topic/48626/java-deque-and-hashset-design-with-detailed-comments)
