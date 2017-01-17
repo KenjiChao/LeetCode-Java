@@ -19,6 +19,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [451. Sort Characters By Frequency](https://discuss.leetcode.com/topic/66045/c-o-n-solution-without-sort)
 - [448. Find All Numbers Disappeared in an Array](https://discuss.leetcode.com/topic/66063/5-line-java-easy-understanding)
 - [447. Number of Boomerangs](https://discuss.leetcode.com/topic/66587/clean-java-solution-o-n-2-166ms)
+- [444. Sequence Reconstruction](https://discuss.leetcode.com/topic/65633/very-short-solution-with-explanation)
 - [436. Find Right Interval]()
 - [435. Non-overlapping Intervals]()
 - [425. Word Squares](https://discuss.leetcode.com/topic/63516/explained-my-java-solution-using-trie-126ms-16-16)
