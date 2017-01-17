@@ -4,6 +4,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 
 ## Great Discussions For Inspiration
 
+- [487. Max Consecutive Ones II](https://discuss.leetcode.com/topic/75445/java-clean-solution-easily-extensible-to-flipping-k-zero-and-follow-up-handled)
 - [485. Max Consecutive Ones](https://discuss.leetcode.com/topic/75437/java-4-lines-concise-solution-with-explanation)
 - [482. License Key Formatting](https://discuss.leetcode.com/topic/74995/java-5-lines-clean-solution)
 - [481. Magical String](https://discuss.leetcode.com/topic/74917/simple-java-solution-using-one-array-and-two-pointers)
