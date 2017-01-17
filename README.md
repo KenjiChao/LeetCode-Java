@@ -196,6 +196,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [173. Binary Search Tree Iterator](https://discuss.leetcode.com/topic/6575/my-solutions-in-3-languages-with-stack)
 - [170. Two Sum III - Data structure design](https://discuss.leetcode.com/topic/32449/trade-off-in-this-problem-should-be-considered)
 - [168. Excel Sheet Column Title](https://discuss.leetcode.com/topic/6214/my-1-lines-code-in-java-c-and-python)
+- [166. Fraction to Recurring Decimal](https://discuss.leetcode.com/topic/7876/my-clean-java-solution)
 - [162. Find Peak Element](https://discuss.leetcode.com/topic/5724/find-the-maximum-by-binary-search-recursion-and-iteration)
 - [161. One Edit Distance](https://discuss.leetcode.com/topic/30308/my-clear-java-solution-with-explanation)
 - [158. Read N Characters Given Read4 II - Call multiple times](https://discuss.leetcode.com/topic/7094/a-simple-java-code)
