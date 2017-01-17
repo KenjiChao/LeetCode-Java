@@ -14,6 +14,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [471. Encode String with Shortest Length](https://discuss.leetcode.com/topic/71963/accepted-solution-in-java)
 - [463. Island Perimeter](https://discuss.leetcode.com/topic/68786/clear-and-easy-java-solution)
 - [461. Hamming Distance](https://discuss.leetcode.com/topic/72089/java-3-line-solution)
+- [469. Convex Polygon](https://discuss.leetcode.com/topic/70643/i-believe-this-time-it-s-far-beyond-my-ability-to-get-a-good-grade-of-the-contest)
 - [459. Repeated Substring Pattern](https://discuss.leetcode.com/topic/67992/java-simple-solution-with-explanation)
 - [451. Sort Characters By Frequency](https://discuss.leetcode.com/topic/66045/c-o-n-solution-without-sort)
 - [448. Find All Numbers Disappeared in an Array](https://discuss.leetcode.com/topic/66063/5-line-java-easy-understanding)
