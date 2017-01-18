@@ -12,6 +12,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [475. Heaters](https://discuss.leetcode.com/topic/71460/short-and-clean-java-binary-search-solution)
 - [474. Ones and Zeroes](https://discuss.leetcode.com/topic/71438/c-dp-solution-with-comments)
 - [471. Encode String with Shortest Length](https://discuss.leetcode.com/topic/71963/accepted-solution-in-java)
+- [465. Optimal Account Balancing](https://discuss.leetcode.com/topic/68948/easy-java-solution-with-explanation)
 - [463. Island Perimeter](https://discuss.leetcode.com/topic/68786/clear-and-easy-java-solution)
 - [461. Hamming Distance](https://discuss.leetcode.com/topic/72089/java-3-line-solution)
 - [469. Convex Polygon](https://discuss.leetcode.com/topic/70643/i-believe-this-time-it-s-far-beyond-my-ability-to-get-a-good-grade-of-the-contest)
