@@ -29,6 +29,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [418. Sentence Screen Fitting](https://discuss.leetcode.com/topic/62455/21ms-18-lines-java-solution)
 - [417. Pacific Atlantic Water Flow](https://discuss.leetcode.com/topic/62379/java-bfs-dfs-from-ocean)
 - [415. Add Strings](https://discuss.leetcode.com/topic/62310/straightforward-java-8-main-lines-25ms)
+- [411. Minimum Unique Word Abbreviation](https://discuss.leetcode.com/topic/61457/c-bit-manipulation-dfs-solution)
 - [410. Split Array Largest Sum](https://discuss.leetcode.com/topic/61324/clear-explanation-8ms-binary-search-java)
 - [409. Longest Palindrome](https://discuss.leetcode.com/topic/61300/simple-hashset-solution-java)
 - [408. Valid Word Abbreviation](https://discuss.leetcode.com/topic/61348/short-and-easy-to-understand-java-solution)
