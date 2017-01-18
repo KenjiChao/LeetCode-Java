@@ -202,6 +202,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [161. One Edit Distance](https://discuss.leetcode.com/topic/30308/my-clear-java-solution-with-explanation)
 - [158. Read N Characters Given Read4 II - Call multiple times](https://discuss.leetcode.com/topic/7094/a-simple-java-code)
 - [157. Read N Characters Given Read4](https://discuss.leetcode.com/topic/18289/another-accepted-java-solution)
+- [159. Longest Substring with At Most Two Distinct Characters](https://discuss.leetcode.com/topic/26640/simple-o-n-java-solution-easily-extend-to-k-characters)
 - [155. Min Stack](https://discuss.leetcode.com/topic/7020/java-accepted-solution-using-one-stack)
 - [154. Find Minimum in Rotated Sorted Array II](https://discuss.leetcode.com/topic/6468/my-pretty-simple-code-to-solve-it)
 - [153. Find Minimum in Rotated Sorted Array](https://discuss.leetcode.com/topic/4100/compact-and-clean-c-solution)
