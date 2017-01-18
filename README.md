@@ -168,6 +168,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [244. Shortest Word Distance II](https://discuss.leetcode.com/topic/20643/java-solution-using-hashmap)
 - [243. Shortest Word Distance](https://discuss.leetcode.com/topic/20668/ac-java-clean-solution)
 - [240. Search a 2D Matrix II](https://discuss.leetcode.com/topic/20064/my-concise-o-m-n-java-solution)
+- [239. Sliding Window Maximum](https://discuss.leetcode.com/topic/19055/java-o-n-solution-using-deque-with-explanation)
 - [238. Product of Array Except Self](https://discuss.leetcode.com/topic/18864/simple-java-solution-in-o-n-without-extra-space)
 - [236. Lowest Common Ancestor of a Binary Tree](https://discuss.leetcode.com/topic/18561/4-lines-c-java-python-ruby)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://discuss.leetcode.com/topic/18387/3-lines-with-o-1-space-1-liners-alternatives)
