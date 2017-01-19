@@ -70,6 +70,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [361. Bomb Enemy](https://discuss.leetcode.com/topic/48565/short-o-mn-solution)
 - [360. Sort Transformed Array](https://discuss.leetcode.com/topic/48424/java-o-n-incredibly-short-yet-easy-to-understand-ac-solution)
 - [359. Logger Rate Limiter](https://discuss.leetcode.com/topic/48359/short-c-java-python-bit-different)
+- [358. Rearrange String k Distance Apart](https://discuss.leetcode.com/topic/48260/java-15ms-solution-with-two-auxiliary-array-o-n-time)
 - [357. Count Numbers with Unique Digits](https://discuss.leetcode.com/topic/48332/java-o-1-with-explanation)
 - [356. Line Reflection](https://discuss.leetcode.com/topic/48172/simple-java-hashset-solution)
 - [355. Design Twitter](https://discuss.leetcode.com/topic/47862/java-solution-using-hashmap-and-priorityqueue)
