@@ -187,6 +187,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [217. Contains Duplicate](https://discuss.leetcode.com/topic/14730/possible-solutions)
 - [216. Combination Sum III](https://discuss.leetcode.com/topic/26351/simple-and-clean-java-code-backtracking)
 - [215. Kth Largest Element in an Array](https://discuss.leetcode.com/topic/14597/solution-explained)
+- [214. Shortest Palindrome](https://discuss.leetcode.com/topic/27261/clean-kmp-solution-with-super-detailed-explanation)
 - [213. House Robber II](https://discuss.leetcode.com/topic/14375/simple-ac-solution-in-java-in-o-n-with-explanation)
 - [212. Word Search II](https://discuss.leetcode.com/topic/33246/java-15ms-easiest-solution-100-00)
 - [211. Add and Search Word - Data structure design](https://discuss.leetcode.com/topic/14030/my-simple-and-clean-java-code)
