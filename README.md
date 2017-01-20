@@ -220,6 +220,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [148. Sort List](https://discuss.leetcode.com/topic/643/i-have-a-pretty-good-mergesort-method-can-anyone-speed-up-the-run-time-or-reduce-the-memory-usage)
 - [147. Insertion Sort List](https://discuss.leetcode.com/topic/8570/an-easy-and-clear-way-to-sort-o-1-space)
 - [146. LRU Cache](https://discuss.leetcode.com/topic/34701/java-easy-version-to-understand)
+- [140. Word Break II](https://discuss.leetcode.com/topic/27855/my-concise-java-solution-based-on-memorized-dfs)
 - [139. Word Break](https://discuss.leetcode.com/topic/6156/java-implementation-using-dp-in-two-ways)
 - [137. Single Number II](https://discuss.leetcode.com/topic/2031/challenge-me-thx)
 - [136. Single Number](https://discuss.leetcode.com/topic/1916/my-o-n-solution-using-xor)
