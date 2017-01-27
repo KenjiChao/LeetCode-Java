@@ -52,6 +52,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [389. Find the Difference](https://discuss.leetcode.com/topic/55912/java-solution-using-bit-manipulation)
 - [388. Longest Absolute File Path](https://discuss.leetcode.com/topic/55247/9-lines-4ms-java-solution)
 - [382. Linked List Random Node](https://discuss.leetcode.com/topic/53753/brief-explanation-for-reservoir-sampling)
+- [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://discuss.leetcode.com/topic/53688/java-haspmap-linkedhashset-arraylist-155-ms)
 - [380. Insert Delete GetRandom O(1)](https://discuss.leetcode.com/topic/53216/java-solution-using-a-hashmap-and-an-arraylist-along-with-a-follow-up-131-ms)
 - [379. Design Phone Directory](https://discuss.leetcode.com/topic/53094/java-ac-solution-using-queue-and-set)
 - [378. Kth Smallest Element in a Sorted Matrix](https://discuss.leetcode.com/topic/53041/java-1ms-nlog-max-min-solution)
