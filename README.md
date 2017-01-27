@@ -252,6 +252,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [98. Validate Binary Search Tree](https://discuss.leetcode.com/topic/7179/my-simple-java-solution-in-3-lines)
 - [98. Validate Binary Search Tree II](https://discuss.leetcode.com/topic/46016/learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-java-solution)
 - [94. Binary Tree Inorder Traversal](https://discuss.leetcode.com/topic/6478/iterative-solution-in-java-simple-and-readable)
+- [93. Restore IP Addresses](https://discuss.leetcode.com/topic/4742/very-simple-dfs-solution)
 - [91. Decode Ways](https://discuss.leetcode.com/topic/2562/dp-solution-java-for-reference)
 - [90. Subsets II](https://discuss.leetcode.com/topic/46162/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning)
 - [88. Merge Sorted Array](https://discuss.leetcode.com/topic/2461/this-is-my-ac-code-may-help-you)
