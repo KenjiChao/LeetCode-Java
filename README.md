@@ -33,6 +33,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [421. Maximum XOR of Two Numbers in an Array](https://discuss.leetcode.com/topic/63213/java-o-n-solution-using-bit-manipulation-and-hashmap)
 - [418. Sentence Screen Fitting](https://discuss.leetcode.com/topic/62455/21ms-18-lines-java-solution)
 - [417. Pacific Atlantic Water Flow](https://discuss.leetcode.com/topic/62379/java-bfs-dfs-from-ocean)
+- [416. Partition Equal Subset Sum](https://discuss.leetcode.com/topic/62312/java-solution-similar-to-backpack-problem-easy-to-understand)
 - [415. Add Strings](https://discuss.leetcode.com/topic/62310/straightforward-java-8-main-lines-25ms)
 - [411. Minimum Unique Word Abbreviation](https://discuss.leetcode.com/topic/61457/c-bit-manipulation-dfs-solution)
 - [410. Split Array Largest Sum](https://discuss.leetcode.com/topic/61324/clear-explanation-8ms-binary-search-java)
