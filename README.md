@@ -289,6 +289,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [40. Combination Sum II](https://discuss.leetcode.com/topic/19845/java-solution-using-dfs-easy-understand)
 - [39. Combination Sum](https://discuss.leetcode.com/topic/7698/java-solution-using-recursive)
 - [38. Count and Say](https://discuss.leetcode.com/topic/2309/show-an-answer-in-java)
+- [36. Valid Sudoku](https://discuss.leetcode.com/topic/9748/shared-my-concise-java-code)
 - [34. Search for a Range](https://discuss.leetcode.com/topic/6327/a-very-simple-java-solution-with-only-one-binary-search-algorithm)
 - [33. Search in Rotated Sorted Array](https://discuss.leetcode.com/topic/3538/concise-o-log-n-binary-search-solution)
 - [31. Next Permutation](https://discuss.leetcode.com/topic/15216/a-simple-algorithm-from-wikipedia-with-c-implementation-can-be-used-in-permutations-and-permutations-ii)
