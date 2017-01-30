@@ -43,6 +43,7 @@ Best Java Solutions for [LeetCode OJ](https://leetcode.com/problemset/algorithms
 - [407. Trapping Rain Water II](https://discuss.leetcode.com/topic/60418/java-solution-using-priorityqueue)
 - [406. Queue Reconstruction by Height](https://discuss.leetcode.com/topic/60394/easy-concept-with-python-c-java-solution)
 - [404. Sum of Left Leaves](https://discuss.leetcode.com/topic/60403/java-iterative-and-recursive-solutions)
+- [403. Frog Jump](https://leetcode.com/articles/frog-jump/)
 - [402. Remove K Digits](https://discuss.leetcode.com/topic/59412/a-greedy-method-using-stack-o-n-time-and-o-n-space)
 - [401. Binary Watch](https://discuss.leetcode.com/topic/59374/simple-python-java)
 - [400. Nth Digit](https://discuss.leetcode.com/topic/59314/java-solution)
